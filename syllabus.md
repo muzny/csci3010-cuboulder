@@ -29,14 +29,14 @@ Course goals
 
 Topics
 ------
-*Objects and object design in object-oriented programming
-*Version control and code reviews
-*Unit testing
-*Design patterns in object oriented programming
-*Designing and building Graphical User Interfaces
-*Programming languages (static vs dynamic, functional programming, etc)
-*Map/reduce/filter (functional programming)
-*Cryptography and security
+-Objects and object design in object-oriented programming  
+-Version control and code reviews  
+-Unit testing  
+-Design patterns in object oriented programming  
+-Designing and building Graphical User Interfaces  
+-Programming languages (static vs dynamic, functional programming, etc)  
+-Map/reduce/filter (functional programming)  
+-Cryptography and security  
 
 
 |Week | Tuesday (lecture/lab) | Wednesday (homework) | Thursday (lecture/lab) |
@@ -79,12 +79,12 @@ Collaboration Policy
 ----------
 You are expected to do your work yourself or with your partner when indicated.
 
-The collaboration policy is simple:
-*__Inspiration is free__: you may discuss homework assignments with anyone. You are especially encouraged to discuss strategies with your instructor, your TAs, and your classmates. “Discuss” does not mean “copy” or “show me your homework”.
-*__Plagiarism is forbidden__: assignments and code that you turn in should be written entirely on your own. You should not need to consult sources beyond your textbook, class notes, posted lecture slides and notebooks, and Python/Matplotlib documentation. Copying/soliciting a solution to a problem from the internet or another classmate constitutes a violation of the course's collaboration policy and the honor code and will result in a trip to the honor council, loss of credit for the assignment, and a grade reduction.
-*__Do not search for a solution online__: You may not actively search for a solution to the problem from the internet. This includes posting to sources like StackExchange, Reddit, Chegg, etc.
-*__StackExchange Clarification__: Searching for basic techniques in Python is totally fine. If you want to post and ask "How do convert a float to an integer" that's fine. What you cannot do is post "Here's the function my prof gave me to write. I need to convert this temperature in celcius to farenheit. Give me code!". That's cheating.
-*__Tutors__: you should always consult piazza, the CA, and the instructor for this course if you need extra help. They are here specifically to help you! You should never have anyone else write code for you. This includes tutors, friends, strangers, friends of friends. Anyone who is not you. You can review concepts with tutors, just not specific homework problems.
-*__When in doubt, ask__: If you have doubts about this policy or would like to discuss specific cases, please ask the instructor.
+The collaboration policy is simple:  
+-__Inspiration is free__: you may discuss homework assignments with anyone. You are especially encouraged to discuss strategies with your instructor, your TAs, and your classmates. “Discuss” does not mean “copy” or “show me your homework”.  
+-__Plagiarism is forbidden__: assignments and code that you turn in should be written entirely on your own. You should not need to consult sources beyond your textbook, class notes, posted lecture slides and notebooks, and Python/Matplotlib documentation.   Copying/soliciting a solution to a problem from the internet or another classmate constitutes a violation of the course's collaboration policy and the honor code and will result in a trip to the honor council, loss of credit for the assignment, and a grade reduction.  
+-__Do not search for a solution online__: You may not actively search for a solution to the problem from the internet. This includes posting to sources like StackExchange, Reddit, Chegg, etc.  
+-__StackExchange Clarification__: Searching for basic techniques in Python is totally fine. If you want to post and ask "How do convert a float to an integer" that's fine. What you cannot do is post "Here's the function my prof gave me to write. I need to convert this temperature in celcius to farenheit. Give me code!". That's cheating.  
+-__Tutors__: you should always consult piazza, the CA, and the instructor for this course if you need extra help. They are here specifically to help you! You should never have anyone else write code for you. This includes tutors, friends, strangers, friends of friends. Anyone who is not you. You can review concepts with tutors, just not specific homework problems.  
+-__When in doubt, ask__: If you have doubts about this policy or would like to discuss specific cases, please ask the instructor.  
 
 
