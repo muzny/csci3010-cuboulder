@@ -87,4 +87,10 @@ The collaboration policy is simple:
 -__Tutors__: you should always consult piazza, the CA, and the instructor for this course if you need extra help. They are here specifically to help you! You should never have anyone else write code for you. This includes tutors, friends, strangers, friends of friends. Anyone who is not you. You can review concepts with tutors, just not specific homework problems.  
 -__When in doubt, ask__: If you have doubts about this policy or would like to discuss specific cases, please ask the instructor.  
 
+Grading
+--------
+
+| | Due Dates and Other Information | Total Points | Grade Percentage |
+|---|---|---|---|
+| Programming Exercises | Due Tuesdays and Thursdays before class. Each exercise is worth 20 points. There are 14 total. Points over 250 are extra credit. | 250 | 25% |
 
