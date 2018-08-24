@@ -24,7 +24,7 @@ Office Hours: TBD
 |Week | Tuesday (lecture/lab) | Wednesday (homework) | Thursday (lecture/lab) |
 | --- | --- | --- | --- |
 1 | Introduction, c++ fundamentals | | C++ and objects (part 1) |
-2 | __PE 1__  Objects and structs (part 2) | | __PE 2__  Objects and structs (part 3) |
+2 | [__PE 1__](programming_exercises/pe1.md)  Objects and structs (part 2) | | __PE 2__  Objects and structs (part 3) |
 3 | __PE 3__  bash/terminal and scripts | | __PE 4__  Version control/ git (part 1) |
 4 | Version control/git, code reviews | HW 1 | Testing (part 1) |
 5 | __PE 5__  Testing (part 2), continuous integration | | __PE 6__  inheritance |
