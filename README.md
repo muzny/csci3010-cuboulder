@@ -8,6 +8,7 @@ Course Information:
 Instructor: Felix Muzny  
 Contact: muzny@colorado.edu  
 Office: ECOT (engineering center tower) 734  
+Office Hours: Tuesdays 11am - 12:30pm, Fridays 12pm - 2pm
 
 Credit: 3 credits  
 Lecture times: Tuesdays & Thursdays 9:30 - 10:45am, ECES 114  
@@ -17,7 +18,6 @@ Piazza discussion forum: https://piazza.com/colorado/fall2018/csci3010/
 
 CA:  
 Kyle Helmick, kyle.helmick@colorado.edu
-
 Office Hours: TBD
 
 
