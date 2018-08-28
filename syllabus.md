@@ -18,7 +18,7 @@ Piazza discussion forum: https://piazza.com/colorado/fall2018/csci3010/
 CA:  
 Kyle Helmick, kyle.helmick@colorado.edu
 
-Office Hours: TBD
+Office Hours: [posted on piazza](https://piazza.com/colorado/fall2018/csci3010/staff)
 
 Course goals
 -----------
@@ -38,6 +38,7 @@ Topics
 - Map/reduce/filter (functional programming)  
 - Cryptography and security  
 
+[For  an up-to-date calendar with links, visit the README](README.md)
 
 |Week (Monday date) | Tuesday (lecture/lab) | Wednesday (homework) | Thursday (lecture/lab) |
 | --- | --- | --- | --- |
