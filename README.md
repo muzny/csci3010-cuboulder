@@ -18,7 +18,7 @@ Piazza discussion forum: https://piazza.com/colorado/fall2018/csci3010/
 
 CA:  
 Kyle Helmick, kyle.helmick@colorado.edu
-Office Hours: TBD
+Office Hours: [posted on piazza](https://piazza.com/colorado/fall2018/csci3010/staff)
 
 
 |Week | Tuesday (lecture/lab) | Wednesday (homework) | Thursday (lecture/lab) |
