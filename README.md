@@ -8,6 +8,7 @@ Course Information:
 Instructor: Felix Muzny  
 Contact: muzny@colorado.edu  
 Office: ECOT (engineering center tower) 734  
+Office Hours: Tuesdays 11am - 12:30pm, Fridays 12pm - 2pm
 
 Credit: 3 credits  
 Lecture times: Tuesdays & Thursdays 9:30 - 10:45am, ECES 114  
@@ -17,14 +18,13 @@ Piazza discussion forum: https://piazza.com/colorado/fall2018/csci3010/
 
 CA:  
 Kyle Helmick, kyle.helmick@colorado.edu
-
 Office Hours: TBD
 
 
 |Week | Tuesday (lecture/lab) | Wednesday (homework) | Thursday (lecture/lab) |
 | --- | --- | --- | --- |
 1 | Introduction, c++ fundamentals | | C++ and objects (part 1) |
-2 | __PE 1__  Objects and structs (part 2) | | __PE 2__  Objects and structs (part 3) |
+2 | [__PE 1__](programming_exercises/pe1.md)  Objects and structs (part 2) | | __PE 2__  Objects and structs (part 3) |
 3 | __PE 3__  bash/terminal and scripts | | __PE 4__  Version control/ git (part 1) |
 4 | Version control/git, code reviews | HW 1 | Testing (part 1) |
 5 | __PE 5__  Testing (part 2), continuous integration | | __PE 6__  inheritance |

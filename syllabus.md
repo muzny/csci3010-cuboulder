@@ -18,7 +18,7 @@ Piazza discussion forum: https://piazza.com/colorado/fall2018/csci3010/
 CA:  
 Kyle Helmick, kyle.helmick@colorado.edu
 
-Office Hours: TBD
+Office Hours: [posted on piazza](https://piazza.com/colorado/fall2018/csci3010/staff)
 
 Course goals
 -----------
@@ -29,34 +29,35 @@ Course goals
 
 Topics
 ------
--Objects and object design in object-oriented programming  
--Version control and code reviews  
--Unit testing  
--Design patterns in object oriented programming  
--Designing and building Graphical User Interfaces  
--Programming languages (static vs dynamic, functional programming, etc)  
--Map/reduce/filter (functional programming)  
--Cryptography and security  
+- Objects and object design in object-oriented programming  
+- Version control and code reviews  
+- Unit testing  
+- Design patterns in object oriented programming  
+- Designing and building Graphical User Interfaces  
+- Programming languages (static vs dynamic, functional programming, etc)  
+- Map/reduce/filter (functional programming)  
+- Cryptography and security  
 
+[For  an up-to-date calendar with links, visit the README](README.md)
 
-|Week | Tuesday (lecture/lab) | Wednesday (homework) | Thursday (lecture/lab) |
+|Week (Monday date) | Tuesday (lecture/lab) | Wednesday (homework) | Thursday (lecture/lab) |
 | --- | --- | --- | --- |
-1 | Introduction, c++ fundamentals | | C++ and objects (part 1) |
-2 | __PE 1__  Objects and structs (part 2) | | __PE 2__  Objects and structs (part 3) |
-3 | __PE 3__  bash/terminal and scripts | | __PE 4__  Version control/ git (part 1) |
-4 | Version control/git, code reviews | HW 1 | Testing (part 1) |
-5 | __PE 5__  Testing (part 2), continuous integration | | __PE 6__  inheritance |
-6 | Design patterns (part 1) | HW 2 | Design patterns (part 2) |
-7 | __PE 7__ Design patterns (part 3) | | __PE 8__  GUIs, low-fidelity prototypes |
-8 | GUIs, user testing | HW 3 | GUIs |
-9 | __PE 9__  GUIs | | __PE 10__ GUIs
-10 | Programming languages | HW 4 | Programming languages
-11 | __PE 11__  map/reduce/filter | | __PE 12__  map/reduce/filter 
-12 | Final projects | HW 5 | Final projects
-13 | THANKSGIVING WEEK | | 
-14 | TBD | Checkpoint 1 | Projects workshop
-15 | __PE 13__ Cryptography | | __PE 14__ Security
-16 | Project presentations | Final project due | Project presentations
+8/27 | Introduction, c++ fundamentals | | C++ and objects (part 1) |
+9/3 | __PE 1__  Objects and structs (part 2) | | __PE 2__  Objects and structs (part 3) |
+9/10 | __PE 3__  bash/terminal and scripts | | __PE 4__  Version control/ git (part 1) |
+9/17 | Version control/git, code reviews | HW 1 | Testing (part 1) |
+9/24 | __PE 5__  Testing (part 2), continuous integration | | __PE 6__  inheritance |
+10/1 | Design patterns (part 1) | HW 2 | Design patterns (part 2) |
+10/8 | __PE 7__ Design patterns (part 3) | | __PE 8__  GUIs, low-fidelity prototypes |
+10/15 | GUIs, user testing | HW 3 | GUIs |
+10/22 | __PE 9__  GUIs | | __PE 10__ GUIs
+10/29 | Programming languages | HW 4 | Programming languages
+11/5 | __PE 11__  map/reduce/filter | | __PE 12__  map/reduce/filter 
+11/12 | Final projects | HW 5 | Final projects
+11/19 | THANKSGIVING WEEK | | 
+11/26 | TBD | Checkpoint 1 | Projects workshop
+12/3 | __PE 13__ Cryptography | | __PE 14__ Security
+12/10 | Project presentations | Final project due | Project presentations
 
 
 Expectations
@@ -80,12 +81,14 @@ Collaboration Policy
 You are expected to do your work yourself or with your partner when indicated.
 
 The collaboration policy is simple:  
--__Inspiration is free__: you may discuss homework assignments with anyone. You are especially encouraged to discuss strategies with your instructor, your TAs, and your classmates. “Discuss” does not mean “copy” or “show me your homework”.  
--__Plagiarism is forbidden__: assignments and code that you turn in should be written entirely on your own. You should not need to consult sources beyond your textbook, class notes, posted lecture slides and notebooks, and Python/Matplotlib documentation.   Copying/soliciting a solution to a problem from the internet or another classmate constitutes a violation of the course's collaboration policy and the honor code and will result in a trip to the honor council, loss of credit for the assignment, and a grade reduction.  
--__Do not search for a solution online__: You may not actively search for a solution to the problem from the internet. This includes posting to sources like StackExchange, Reddit, Chegg, etc.  
--__StackExchange Clarification__: Searching for basic techniques in Python is totally fine. If you want to post and ask "How do convert a float to an integer" that's fine. What you cannot do is post "Here's the function my prof gave me to write. I need to convert this temperature in celcius to farenheit. Give me code!". That's cheating.  
--__Tutors__: you should always consult piazza, the CA, and the instructor for this course if you need extra help. They are here specifically to help you! You should never have anyone else write code for you. This includes tutors, friends, strangers, friends of friends. Anyone who is not you. You can review concepts with tutors, just not specific homework problems.  
--__When in doubt, ask__: If you have doubts about this policy or would like to discuss specific cases, please ask the instructor.  
+- __Inspiration is free__: you may discuss homework assignments with anyone. You are especially encouraged to discuss strategies with your instructor, your TAs, and your classmates. “Discuss” does not mean “copy” or “show me your homework”.  
+- __Plagiarism is forbidden__: assignments and code that you turn in should be written entirely on your own. You should not need to consult sources beyond your textbook, class notes, posted lecture slides and notebooks, and Python/Matplotlib documentation.   Copying/soliciting a solution to a problem from the internet or another classmate constitutes a violation of the course's collaboration policy and the honor code and will result in a trip to the honor council, loss of credit for the assignment, and a grade reduction.  
+- __Do not search for a solution online__: You may not actively search for a solution to the problem from the internet. This includes posting to sources like StackExchange, Reddit, Chegg, etc.  
+- __StackExchange Clarification__: Searching for basic techniques in Python is totally fine. If you want to post and ask "How do convert a float to an integer" that's fine. What you cannot do is post "Here's the function my prof gave me to write. I need to convert this temperature in celcius to farenheit. Give me code!". That's cheating.  
+- __Tutors__: you should always consult piazza, the CA, and the instructor for this course if you need extra help. They are here specifically to help you! You should never have anyone else write code for you. This includes tutors, friends, strangers, friends of friends. Anyone who is not you. You can review concepts with tutors, just not specific homework problems.  
+- __When in doubt, ask__: If you have doubts about this policy or would like to discuss specific cases, please ask the instructor.  
+
+Collaboration Policy violations will result in __both__ a 0 on the assignment in question and a final grade reduction of one letter grade.
 
 Grading
 --------
