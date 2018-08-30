@@ -4,7 +4,7 @@
 
 [__example Makefile__](examples/Makefile)
 
-[__verbose guide to writing Makefiles](https://www.cs.bu.edu/teaching/cpp/writing-makefiles/)
+[__verbose guide to writing Makefiles__](https://www.cs.bu.edu/teaching/cpp/writing-makefiles/)
 
 [__wikipedia on pointers (general)__](https://en.wikipedia.org/wiki/Pointer_(computer_programming))
 
