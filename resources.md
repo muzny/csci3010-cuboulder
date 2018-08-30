@@ -5,3 +5,9 @@
 [__example Makefile__](examples/Makefile)
 
 [__verbose guide to writing Makefiles](https://www.cs.bu.edu/teaching/cpp/writing-makefiles/)
+
+[__wikipedia on pointers (general)__](https://en.wikipedia.org/wiki/Pointer_(computer_programming))
+
+[__wikipedia on c++ references__](https://en.wikipedia.org/wiki/Reference_(C%2B%2B))
+
+[__passing arguments by reference vs. pointer__](https://www.geeksforgeeks.org/when-do-we-pass-arguments-by-reference-or-pointer/)
