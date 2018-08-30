@@ -11,3 +11,6 @@
 [__wikipedia on c++ references__](https://en.wikipedia.org/wiki/Reference_(C%2B%2B))
 
 [__passing arguments by reference vs. pointer__](https://www.geeksforgeeks.org/when-do-we-pass-arguments-by-reference-or-pointer/)
+
+
+[__structs and objects syntax__](examples/structs_objs_declarations.md)
