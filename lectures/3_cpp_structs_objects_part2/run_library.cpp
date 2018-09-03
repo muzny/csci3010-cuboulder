@@ -1,56 +1,64 @@
 #include <iostream>
+#include <vector>
+#include "Library.h"
 
 // Names:
 //
-
-// 1) define a Book struct here. Include at least 2 fields.
-// recall:
-// struct Name{
-//  type field1;
-//  type field2;
-// };
-
-
-// 3) define a Library object here. Your Library can store 10 Books. (it only has one shelf)
-// Your Library should have at least one other field.
-// Go ahead and define your constructor in line. When your Library is created it has no books.
-// recall:
-// class Name {
-//  public:
-//      Name(); // constructor!
-//      return_type OtherMethods();
-//  private:
-//      type field1_;
-//      type field2_;
-// };
-
+// Complete numbered coding tasks.
+// Answer the questions with "Answer: " in the comments in the comments.
+// Turn all your library files in as library.zip on moodle before the end of class.
 
 int main() {
-    // 2) Instantiate a Book. Set it's fields equal to some values.
-    // Print out the values of the book's fields.
+    // 1) Instantiate a couple Books. Set their fields equal to some values.
+    // Print out the values of the books' fields.
 
-    // 4) Instantiate a Library.
+
+    // 2) Instantiate a Library.
    
-    // 5) Add a void Donate(Book b) method to your Library class.
+    // 3) Add a void Donate(Book b) method to your Library class.
     // Your Library should store the new book at the end of its shelf.
-    // If there are already 10 books in the Library, the Library throws away the
-    // donated book. Donate a few books.
 
-    // 6) Add a int get_num_books() method to your Library. Call that method
-    // and print out how many books your Library has.
 
-    // 7) Yay! Now, create 2 new files, Library.cpp and Library.h. Put the method implementations
-    // in Library.cpp and the definitions of Book and Library in Library.h
-    // Don't remove them from this file in case something isn't working out.
+    // 4) Donate one of the Books that you instantiated to your Library.
+   
+
+    // 5) Print out the books in the Library (use the given PrintBooks method)
+    
+
+    // 6) Change the title and/or author of the book that you donated to
+    // something different.
+    // Print out the new book information, then print out the books in your
+    // Library. Did changing the Book information change it in your Library?
     //
-    // recall: include header guards in Library.h (#ifndef _LIBRARY_H_ and #define _LIBRARY_H_ at the top,
-    // #endif at the bottom of the file)
-    // recall: you will need to #include "Library.h" at the top of Library.cpp
-    // recall: you will need to implement the methods with the Library:: prefix. (this includes the constructor)
-    //  -example: void Library::Donate(Book b) { ... }
-    // 
-    // Test this out by compiling Library.cpp: g++ -std=c+11 -Wall -c Library.cpp
+    // Answer (and your hypothesis for why/why not):
 
-    // 8) Comment out the Book and Family definitions in this file and add #include "Library.h"
-    // Test this out by compiling: g++ -std=c+11 -Wall run_library.cpp Library.o -c run_library
+    
+    // 7) Create two Books that are separate structs (not pointers or references)
+    // but that have the same information.
+    // use the == operator to test if they are equal. What happens?
+    // if it succeeds, are these equal?
+    //
+    // Answer:
+
+    // 8) Create two Book references to your Books from # 7.
+    // use the == operator to test if they are equal. What happens?
+    // if it succeeds, are these equal?
+    //
+    // Answer:
+
+    // 9) Create two Book pointers to your Books from # 7.
+    // use the == operator to test if they are equal. What happens?
+    // if it succeeds, are these equal?
+    //
+    // Answer:
+
+
+    // 10) (Given in lecture)
+
+
+    // 11)
+
+
+    // 12)
+   
 }
