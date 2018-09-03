@@ -4,8 +4,6 @@
 struct Book {
   std::string title;
   std::string author;
-
-  bool operator==(const Book &b);
 };
 
 

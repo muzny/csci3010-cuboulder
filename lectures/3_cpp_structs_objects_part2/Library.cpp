@@ -4,9 +4,6 @@
 
 #include "Library.h"
 
-bool Book::operator==(const Book & b) {
-  return title == b.title && author == b.author;
-}
 
 /**
   Zero argument constructor initializes a library with a shelf but no books.
