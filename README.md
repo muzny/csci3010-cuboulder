@@ -25,7 +25,7 @@ Office Hours: [posted on piazza](https://piazza.com/colorado/fall2018/csci3010/s
 | --- | --- | --- | --- |
 1 | Introduction, c++ fundamentals | | C++ and objects (part 1) |
 2 | [__PE 1__](programming_exercises/pe1.md)  Objects and structs (part 2) | | [__PE 2__](programming_exercises/pe2.md)  Objects and structs (part 3) |
-3 | __PE 3__  bash/terminal and scripts | | __PE 4__  Version control/ git (part 1) |
+3 | [__PE 3__](programming_exercises/pe3.md)  bash/terminal and scripts | | __PE 4__  Version control/ git (part 1) |
 4 | Version control/git, code reviews | HW 1 | Testing (part 1) |
 5 | __PE 5__  Testing (part 2), continuous integration | | __PE 6__  inheritance |
 6 | Design patterns (part 1) | HW 2 | Design patterns (part 2) |
