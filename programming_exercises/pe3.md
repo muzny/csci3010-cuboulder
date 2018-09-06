@@ -3,6 +3,8 @@ PE 3 (references and bash scripting)
 
 Be sure to include your name in all files that you turn in!
 
+Feel free to use the `man` pages and google as references for part 2 in particular!
+
 1. Complete [`pe3_references.cpp`](pe3_references.cpp).
 2. Answer the following questions in a file titled `pe3_bash.txt`.
     1. What is the bash command to show your terminal's working directory (current location)?
