@@ -32,9 +32,9 @@ Office Hours: [posted on piazza](https://piazza.com/colorado/fall2018/csci3010/s
 7 (10/8) | __PE 7__ Design patterns (part 3) | | __PE 8__  GUIs, low-fidelity prototypes |
 8 (10/15) | GUIs, user testing | HW 3 | GUIs |
 9 (10/22) | __PE 9__  GUIs | | __PE 10__ GUIs
-10 (10/29) | Programming languages | HW 4 | Programming languages
-11 (11/5) | __PE 11__  map/reduce/filter | | __PE 12__  map/reduce/filter 
-12 (11/12) | Final projects | HW 5 | Final projects
+10 (10/29) | __PE 11__  Programming languages | __PE 12__ | Programming languages
+11 (11/5) |  map/reduce/filter | HW 4 |   map/reduce/filter 
+12 (11/12) | Final projects |  | Final projects
 13 (11/19) | THANKSGIVING WEEK | | 
 14 (11/26) | TBD | Checkpoint 1 | Projects workshop
 15 (12/3) | __PE 13__ Cryptography | | __PE 14__ Security
