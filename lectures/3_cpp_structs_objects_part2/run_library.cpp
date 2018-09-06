@@ -2,7 +2,7 @@
 #include <vector>
 #include "Library.h"
 
-// Names:
+// Names (Please include last name or initial!):
 //
 // Complete numbered coding tasks.
 // Answer the questions with "Answer: " in the comments in the comments.
