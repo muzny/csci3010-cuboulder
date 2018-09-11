@@ -1,7 +1,7 @@
 PE 4 (git prompt)
 ==============
 
-Using the materials from lecture on Tuesday, edit your `.bashrc` so that your PS1 (command line prompt) provides the following information on your command line about your git repos (if your working directory is a git repo):
+Using the materials from lecture on Tuesday ([lecture 5](../lectures/5_bash_terminal/bashrc_starter)), edit your `.bashrc` so that your PS1 (command line prompt) provides the following information on your command line about your git repos (if your working directory is a git repo):
 - clean vs. dirty
 - if your branch is ahead of remote
 - what branch you are on
