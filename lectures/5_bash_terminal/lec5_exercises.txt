@@ -1,0 +1,50 @@
+Please work in 2s or 3s!
+
+Name:
+Name:
+Name:
+
+Part 1 (bash + file navigation)
+------------------------------
+For all of the following questions, copy and paste the terminal commands that you use to acheive them into this file.
+
+1. Create a directory called "lec5_directory".
+
+2. Change directories into lec5_directory.
+
+3. Create a file called "names.txt".
+
+4. Use `echo` and `>` and/or `>>` to write the names of you and your partner into the file names.txt.
+
+5. Create a copy of "names.txt" called "names2.txt".
+
+6. Create a directory called lec5_subdirectory and create a directory within lec5_subdirectory called subsubbasement.
+
+7. Move to your subsubbasement directory.
+
+8. Find your full path.
+
+9. Without changing directories, move names2.txt to the subsubbasement directory.
+
+10. Move back to your lec5_directory.
+
+11. Create a directory called thisissilly
+
+12. Using the `rm` command, remove the thisissilly directory
+
+13. Run the following code:
+for i in `seq 1 30`; do
+    touch "$i.silly"
+done;
+
+14. List all files in your directory ending in .silly. Use a "*" wildcard with `ls`.
+
+15. List all files in your directory between 10.silly and 19.silly (inclusive). Use `ls` with a "?" wildcard (matches 1 single character).
+
+16. Close this file (Really!), then move it into your lec5_directory using the `mv` command.
+
+17. Use the `less` command and the `cat` command on this file. What are the differences?
+
+18. Change directories to the parent directory of lec5_directory.
+
+19. What command will you use to zip up your lec5_directory and all files and subdirectories to produce lec5.zip? (Answer, then do this and turn your zip file in on moodle). You can use `unzip -l lec5.zip` to check the contents of your zip file.
