@@ -8,6 +8,8 @@ Terminal & bash
 
 [__bash guide focusing more on scripting__](https://guide.bash.academy/)
 
+[__installing Windows Subsystem for Linux__](examples/WSL/instructions.md)
+
 Compiling and Makefiles
 --------------------
 
