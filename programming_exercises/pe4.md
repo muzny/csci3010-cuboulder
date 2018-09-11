@@ -8,4 +8,4 @@ Using the materials from lecture on Tuesday ([lecture 5](../lectures/5_bash_term
 
 Your prompt must use at least 3 different colors. To complete this exercise, turn in your .bashrc file and a screen shot showing your prompt indicating all 3 different states above in a git repo.
 
-For those of you who currently use `zsh` or `powershell`--[read about how to change your shell](http://www.peachpit.com/articles/article.aspx?p=659655&seqNum=3) and implement your own PS1 in bash.
+For those of you who currently use `zsh` or any other non-bash unix shell--[read about how to change your shell](http://www.peachpit.com/articles/article.aspx?p=659655&seqNum=3) and implement your own PS1 in bash.
