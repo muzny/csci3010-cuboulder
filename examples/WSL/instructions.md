@@ -8,11 +8,11 @@ You Windows machine must be running 64 bit Windows, and be updated to the lastes
 
 1. Type `Turn Windows features on or off` into your taskbars search box.
 
-    ![Windows features screenshot][1]
+![Windows features screenshot][1]
 
 2. Check Windows Subsystem for Linux in the Windows Features Window
 
-    ![Windows features menu screenshot][2]
+![Windows features menu screenshot][2]
 
     Then press OK and restart your machine.
 
@@ -39,5 +39,5 @@ You Windows machine must be running 64 bit Windows, and be updated to the lastes
 
 ### If you have questions just come to office hours or send an email or piazza post to me.
 
-[1]: Windows_features.png
-[2]: Windows_features_2.png
+[1]: https://raw.githubusercontent.com/muzny/csci3010-cuboulder/master/examples/WSL/Windows_features.PNG
+[2]: https://raw.githubusercontent.com/muzny/csci3010-cuboulder/master/examples/WSL/Windows_features_2.PNG
