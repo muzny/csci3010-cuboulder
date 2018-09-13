@@ -20,6 +20,8 @@ Version control & git
 
 [__hello world for github__](https://guides.github.com/activities/hello-world/)
 
+[__about pull requests__](https://help.github.com/articles/about-pull-requests/)
+
 Compiling and Makefiles
 --------------------
 
