@@ -10,6 +10,16 @@ Terminal & bash
 
 [__installing Windows Subsystem for Linux__](examples/WSL/instructions.md)
 
+Version control & git
+----------------
+[__CVS vs. DVCS__](https://www.atlassian.com/blog/software-teams/version-control-centralized-dvcs)
+
+[__pros and cons of CVS and DCVS__](https://content.intland.com/blog/sdlc/the-needs-that-version-control-systems-serve)
+
+[__git cheat sheet__](https://www.atlassian.com/dam/jcr:8132028b-024f-4b6b-953e-e68fcce0c5fa/atlassian-git-cheatsheet.pdf)
+
+[__hello world for github__](https://guides.github.com/activities/hello-world/)
+
 Compiling and Makefiles
 --------------------
 
