@@ -1,14 +1,8 @@
 Note! This is not a complete reference guide but should provide you some pointers on where to get started on some subjects that we cover. If you want more resources for a particular subject, post your request on Piazza and we'll add more to this list!
 
-Terminal & bash
----------------------
-[__what is terminal?__](https://askubuntu.com/questions/38162/what-is-a-terminal-and-how-do-i-open-and-use-it)
-
-[__bash commands reference__](https://courses.cs.washington.edu/courses/cse390a/14au/bash.html)
-
-[__bash guide focusing more on scripting__](https://guide.bash.academy/)
-
-[__installing Windows Subsystem for Linux__](examples/WSL/instructions.md)
+Unit Testing
+-----------
+[__Catch2 tutorial__](https://github.com/catchorg/Catch2/blob/master/docs/tutorial.md#top)
 
 Version control & git
 ----------------
@@ -21,6 +15,17 @@ Version control & git
 [__hello world for github__](https://guides.github.com/activities/hello-world/)
 
 [__about pull requests__](https://help.github.com/articles/about-pull-requests/)
+
+
+Terminal & bash
+---------------------
+[__what is terminal?__](https://askubuntu.com/questions/38162/what-is-a-terminal-and-how-do-i-open-and-use-it)
+
+[__bash commands reference__](https://courses.cs.washington.edu/courses/cse390a/14au/bash.html)
+
+[__bash guide focusing more on scripting__](https://guide.bash.academy/)
+
+[__installing Windows Subsystem for Linux__](examples/WSL/instructions.md)
 
 Compiling and Makefiles
 --------------------
