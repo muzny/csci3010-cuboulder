@@ -27,7 +27,7 @@ Office Hours: [posted on piazza](https://piazza.com/colorado/fall2018/csci3010/s
 2 (9/3) | [__PE 1__](programming_exercises/pe1.md)  Objects and structs (part 2) | | [__PE 2__](programming_exercises/pe2.md)  Objects and structs (part 3) |
 3 (9/10) | [__PE 3__](programming_exercises/pe3.md)  bash/terminal and scripts | | [__PE 4__](programming_exercises/pe4.md)  Version control/ git (part 1) |
 4 (9/17) | Version control/git, code reviews | [HW 1](homeworks/hw1_maze/) | Testing (part 1) |
-5 (9/24) | __PE 5__  Testing (part 2), continuous integration | | __PE 6__  inheritance |
+5 (9/24) | [__PE 5__](programming_exercises/pe5.md)  Testing (part 2), continuous integration | | __PE 6__  inheritance |
 6 (10/1) | Design patterns (part 1) | HW 2 / [Individual Project Proposal](homeworks/individual_projects) | Design patterns (part 2) |
 7 (10/8) | __PE 7__ Design patterns (part 3) | | __PE 8__  GUIs, low-fidelity prototypes |
 8 (10/15) | GUIs, user testing | HW 3 | GUIs |
