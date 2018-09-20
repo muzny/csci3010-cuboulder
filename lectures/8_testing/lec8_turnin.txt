@@ -1,8 +1,9 @@
 # List your names here
 
-# You will turn in this file and your test.[cc|cpp] file
+# You will turn in this file before the end of class
 
 # Catch documentation: https://github.com/catchorg/Catch2/blob/master/docs/tutorial.md
+# Catch Macros documentation: https://github.com/catchorg/Catch2/blob/master/docs/assertions.md#top
 
 # Running tests
 1) How do you create your test executable?
@@ -36,14 +37,3 @@
 
 5) You should only test one functionality in each SECTION. Why is this?  
 
-
-# Miscellaneous
-
-1) Catch's documentation talks about "BDD-style" (https://en.wikipedia.org/wiki/Behavior-driven_development). What is the mapping between BDD-style and Catch's "standard" style?
-
-
-# Actually writing tests
-
-0) Write a test that finds the bug in the Factorial function.
-
-1) Write tests for each method in the provided header file for the Rectangle object. You should also test the constructor. There are at least 3 methods/constructors with bugs (this depends on how you count).
