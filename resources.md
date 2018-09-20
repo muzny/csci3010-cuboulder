@@ -4,6 +4,8 @@ Unit Testing
 -----------
 [__Catch2 tutorial__](https://github.com/catchorg/Catch2/blob/master/docs/tutorial.md#top)
 
+[__Catch2 Assertion Macros__](https://github.com/catchorg/Catch2/blob/master/docs/assertions.md#top)
+
 Version control & git
 ----------------
 [__CVS vs. DVCS__](https://www.atlassian.com/blog/software-teams/version-control-centralized-dvcs)
