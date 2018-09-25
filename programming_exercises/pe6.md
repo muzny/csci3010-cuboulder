@@ -3,7 +3,8 @@ PE 6 (git, inheritance)
 
 (To be done in groups of 2 or 3 (__required__).)
 
-1. Create a new github repository for your group.
+1. Create a new github repository for your group. (Person 1)
+2. Make sure that someone went through the repo initialization steps before you attempt to create a branch. (Person 2)
 
 __To receive credit__: submit a link to your github to the assignment on moodle.
 
