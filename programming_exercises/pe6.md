@@ -11,8 +11,8 @@ __To receive credit__: submit a link to your github to the assignment on moodle.
 Person 1
 ------
 1. Get the branch that Person 2 created locally.
-2. Add the [provided](../lectures/9_inheritance_part1/animals/) files to your branch and push these changes to remote.
-3. Connect your repo to Travis CI. When new code is pushed to any branch in your repo, your code should be compiled.
+2. Add the [provided](../lectures/9_inheritance_part1/animals/) files to your branch and push these changes to remote. (You don't need to add the provided `main.cpp`, but don't worry about it if you already did.)
+3. Connect your repo to Travis CI. When new code is pushed to any branch in your repo, your code should be compiled. (Take a look at the `.travis.yml` file in the course collaboration repo for inspiration).
 -- (do not go on until all group members have completed their first three steps) --  
 -- (merge the branch into master) --
 4. Create a new branch just for yourself.
