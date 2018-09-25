@@ -24,7 +24,7 @@ Person 2
 ------
 1. Create a new branch in your repository.
 2. Create an empty `main.cpp` and push this to your remote branch.
-3. Write a Makefile, then push these changes to remote. 
+3. Write a Makefile, then push these changes to remote.   
 -- (do not go on until all group members have completed their first three steps) --
 4. Create a new branch just for yourself.
 5. Implement one new Animal in the files `Animal.h` and `Animal.cpp`
@@ -37,7 +37,7 @@ Person 3
 ------
 1. Get the branch that Person 2 created locally.
 2. Add a README.md to your repository with your group members names and their roles, then push these changes to remote.
-3. Add an icon to your README.md indicating the build status of your repository.
+3. Add an icon to your README.md indicating the build status of your repository.  
 -- (do not go on until all group members have completed their first three steps) --
 4. Create a new branch just for yourself.
 5. Implement one new Animal in the files `Animal.h` and `Animal.cpp`
