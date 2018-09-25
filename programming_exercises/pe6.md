@@ -33,7 +33,7 @@ Person 2
 
 
 
-Person 3
+Person 3 (if they exist in your group)
 ------
 1. Get the branch that Person 2 created locally.
 2. Add a README.md to your repository with your group members names and their roles, then push these changes to remote.
