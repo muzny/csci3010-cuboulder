@@ -15,7 +15,7 @@ Person 1
 -- (do not go on until all group members have completed their first three steps) --  
 -- (merge the branch into master) --
 4. Create a new branch just for yourself.
-5. Implement one new Animal in the files `Animal.h` and `Animal.cpp`
+5. Implement one new Animal in the files `Animal.h` and `Animal.cpp`. Make sure to instantiate it in your `main.cpp`.
 6. Create a PR with your teammates as reviewers.
 7. Once the PR has been approved by your team members, merge your branch into master.
 
@@ -27,7 +27,7 @@ Person 2
 3. Write a Makefile, then push these changes to remote.   
 -- (do not go on until all group members have completed their first three steps) --
 4. Create a new branch just for yourself.
-5. Implement one new Animal in the files `Animal.h` and `Animal.cpp`
+5. Implement one new Animal in the files `Animal.h` and `Animal.cpp`. Make sure to instantiate it in your `main.cpp`.
 6. Create a PR with your teammates as reviewers.
 7. Once the PR has been approved by your team members, merge your branch into master.
 
@@ -40,6 +40,6 @@ Person 3
 3. Add an icon to your README.md indicating the build status of your repository.  
 -- (do not go on until all group members have completed their first three steps) --
 4. Create a new branch just for yourself.
-5. Implement one new Animal in the files `Animal.h` and `Animal.cpp`
+5. Implement one new Animal in the files `Animal.h` and `Animal.cpp`. Make sure to instantiate it in your `main.cpp`.
 6. Create a PR with your teammates as reviewers.
 7. Once the PR has been approved by your team members, merge your branch into master.
