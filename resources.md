@@ -1,5 +1,20 @@
 Note! This is not a complete reference guide but should provide you some pointers on where to get started on some subjects that we cover. If you want more resources for a particular subject, post your request on Piazza and we'll add more to this list!
 
+Design Patterns & `static`
+-----------
+[__`static` wikipedia__](https://en.wikipedia.org/wiki/Static_(keyword))  
+
+
+[__Singleton Example__](lectures/10_static_singleton/earth/Earth.h)  
+
+
+Inheritance
+----------
+[__inheritance in c++ (lectures from Univ. of Washington)__](https://courses.cs.washington.edu/courses/cse333/18su/lectures/18-c++-inheritance.pdf)  
+
+[__part 2 inheritance from UW__](https://courses.cs.washington.edu/courses/cse333/18su/lectures/19-c++-casts.pdf)  
+
+
 Unit Testing
 -----------
 [__Catch2 tutorial__](https://github.com/catchorg/Catch2/blob/master/docs/tutorial.md#top)
