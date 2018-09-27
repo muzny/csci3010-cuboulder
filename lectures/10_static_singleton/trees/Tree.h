@@ -7,7 +7,7 @@ class Tree {
 
         int get_number_trees() { return number_trees_; }
 
-//    private:
+    private:
         static int number_trees_;
 };
 

@@ -9,8 +9,6 @@
 int main() {
     Tree oak;
     std::cout << "Number of trees: " << oak.get_number_trees() << std::endl;
-    std::cout << Tree::number_trees_ << std::endl;
-    std::cout << oak.number_trees_ << std::endl;
 
     // 1) Instantiate another Tree object here
 
