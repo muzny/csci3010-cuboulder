@@ -1,5 +1,14 @@
 Note! This is not a complete reference guide but should provide you some pointers on where to get started on some subjects that we cover. If you want more resources for a particular subject, post your request on Piazza and we'll add more to this list!
 
+Design Patterns (game programming blog)
+------------
+[__Singleton__](http://gameprogrammingpatterns.com/singleton.html)
+
+[__Flyweight__](http://gameprogrammingpatterns.com/flyweight.html)
+
+[__Prototype__](http://gameprogrammingpatterns.com/prototype.html)
+
+
 Design Patterns & `static`
 -----------
 [__`static` wikipedia__](https://en.wikipedia.org/wiki/Static_(keyword))  
