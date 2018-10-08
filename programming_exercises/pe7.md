@@ -9,6 +9,7 @@ PE 7 (collab repo clean up + Qt installation)
 2. Install [QtCreator](http://doc.qt.io/qt-5/gettingstarted.html). We'll be using Qt version 5.x. Warning: this software does take a significant amount of space on your machine. You can uninstall it at the end of the semester, but we will be using it for the rest of the course.
 - Here is a [Qt for beginners wiki that you may find useful](https://wiki.qt.io/Qt_for_Beginners)
 - Please post any Qt Installation questions on piazza with screenshots so that Kyle and I can help you out (or come to office hours).
+- You should download the open source version. When you get to the install screen select "Qt Creator" and the most recent version of Qt. (Not All! That would be _very_ _very_ large.
 
 3. Do the [text finder](http://doc.qt.io/qtcreator/creator-writing-program.html) tutorial.
 
