@@ -15,6 +15,7 @@ Lecture times: Tuesdays & Thursdays 9:30 - 10:45am, ECES 114
 Course website (for homework submissions): https://moodle.cs.colorado.edu  
 
 Piazza discussion forum: https://piazza.com/colorado/fall2018/csci3010/  
+Collaboration repository: https://github.com/muzny/csci3010-fall2018-collab  
 
 CA:  
 Kyle Helmick, kyle.helmick@colorado.edu
