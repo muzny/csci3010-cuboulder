@@ -1,0 +1,80 @@
+What kind of election should we have (direct or representative, 0 to stop)? direct
+Do you want to register a candidate for party one (y or n)? y
+What is their name? Bob
+Do you want to register a candidate for party one (y or n)? n
+Do you want to register a candidate for party two (y or n)? y
+What is their name? Xena
+Do you want to register a candidate for party two (y or n)? n
+Do you want to register a candidate for party three (y or n)? n
+
+District 1:
+square miles: 5
+[Party: one] : 3    [Party: two] : 8    [Party: three] : 7    [Party: none] : 6
+
+District 2:
+square miles: 29
+[Party: one] : 8    [Party: two] : 2    [Party: three] : 6    [Party: none] : 4
+
+-----------------
+1: Bob [Party: one]
+2: Xena [Party: two]
+
+
+Which candidate is campaigning (id) (0 to stop) ? 1
+District 1:
+square miles: 5
+[Party: one] : 3    [Party: two] : 8    [Party: three] : 7    [Party: none] : 6
+
+District 2:
+square miles: 29
+[Party: one] : 8    [Party: two] : 2    [Party: three] : 6    [Party: none] : 4
+
+
+Where is this candidate campaigning (id) (0 to stop) ? 2
+Bob is campaigning in district 2
+Chances to convert: 139.655172
+Chances to convert from another party: 13.965517
+Congrats, you have converted someone from none to one!
+District 1:
+square miles: 5
+[Party: one] : 3    [Party: two] : 8    [Party: three] : 7    [Party: none] : 6
+
+District 2:
+square miles: 29
+[Party: one] : 9    [Party: two] : 2    [Party: three] : 6    [Party: none] : 3
+
+
+Where is this candidate campaigning (id) (0 to stop) ? 1
+Bob is campaigning in district 1
+Chances to convert: 85.333333
+Chances to convert from another party: 8.533333
+Congrats, you have converted someone from none to one!
+District 1:
+square miles: 5
+[Party: one] : 4    [Party: two] : 8    [Party: three] : 7    [Party: none] : 5
+
+District 2:
+square miles: 29
+[Party: one] : 9    [Party: two] : 2    [Party: three] : 6    [Party: none] : 3
+
+
+Where is this candidate campaigning (id) (0 to stop) ? 0
+-----------------
+1: Bob [Party: one]
+2: Xena [Party: two]
+
+
+Which candidate is campaigning (id) (0 to stop) ? 0
+District: 1
+Bob: 16
+Xena: 4
+District: 2
+Bob: 12
+Xena: 12
+
+Full results:
+Bob: 28
+Xena: 16
+
+Congratulations, Bob, you've won!
+What kind of election should we have (direct or representative, 0 to stop)? 0
