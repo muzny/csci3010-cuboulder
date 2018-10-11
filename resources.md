@@ -1,5 +1,12 @@
 Note! This is not a complete reference guide but should provide you some pointers on where to get started on some subjects that we cover. If you want more resources for a particular subject, post your request on Piazza and we'll add more to this list!
 
+Qt & Qt Creator
+---------------
+[__Qt documentation__](http://doc.qt.io/)
+
+[__Hello world Qt tutorial__](https://prognotes.net/2016/11/qt-5-hello-world-tutorial-using-qt-creator/)
+
+
 Design Patterns (game programming blog)
 ------------
 [__Singleton__](http://gameprogrammingpatterns.com/singleton.html)
