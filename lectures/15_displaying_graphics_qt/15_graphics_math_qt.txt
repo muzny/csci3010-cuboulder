@@ -1,0 +1,110 @@
+# Names:
+
+
+
+# You may work with 1 or 2 partners for this activity.
+# Note! This will be an activity that spans multiple days — it will be easiest if you and your partner(s) are able to work together for the duration of the activity.
+
+
+
+Today we'll be creating a GUI for graphing points on an x/y axis.
+
+Task 0: Visualizing our plotting field.
+
+The scene that we are going to be plotting our points on has (0, 0) in the top left corner and (width, height) in the bottom right corner. We'll call this layout "gui adjusted".
+
+(0,0) --------------------------------------- (width, 0)
+|                                                      |
+|                                                      |
+|                                                      |
+|                                                      |
+|                                                      |
+|                                                      |
+|                                                      |
+|                                                      |
+|                                                      |
+|                                                      |
+(0, height) ---------------------------- (width, height)
+
+We want to adjust this so that (0, 0) is in the middle of our scene (where our x and y axes meet). Fill in the adjusted values in each of the 4 corners. We'll call this layout "standard".
+
+(__________) -------------------------------- (________)
+|                          y                           |
+|                          y                           |
+|                          y                           |
+|                          y                           |
+|                          y                           |
+|xxxxxxxxxxxxxxxxxxxxxxxx(0, 0)xxxxxxxxxxxxxxxxxxxxxxxx|
+|                          y                           |
+|                          y                           |
+|                          y                           |
+|                          y                           |
+|                          y                           |
+(__________) -------------------------------- (________)
+
+
+Given a point in standard format, (x, y), what equations will you use to calculate the equivalent coordinated on our gui adjusted layout?
+
+
+
+
+
+Task 1: Importing our project
+
+Unzip the provided plotproject_starter1.zip file in whichever directory you prefer to have your qt projects live.
+
+Notice that unlike the tutorial that you went through, this directory doesn't contain a *.pro.user file. That's because that is a user specific file. It should not be included in repositories, etc.
+
+Open Qt Creator and choose "Open Project". When prompted, choose the first option (clang) for the build system. Your project should now open and you should be able to press the green "play" button to successfully build the project.
+
+
+
+
+Task 2: Qt GUI basics -- using the framework for the given qt plotting project
+
+1) What object does our PlotWindow inherit?
+
+
+2) What objects are created in the main.cpp file? What two methods are called? What do these two methods do? Take a look at the documentation for QWidget and QApplication: http://doc.qt.io/qt-5/qwidget.html and http://doc.qt.io/qt-5/qapplication.html
+
+
+3) Write down the lines of code that you would use in the PlotWindow object to access each ui element.
+
+
+4) What are the differences between a QGraphicsView and a QGraphicsScene? In our example, which one contains the other?
+
+
+5) Modify the code in the PlotWindow constructor so that x and y axes are drawn on your QGraphicsScene.
+
+
+
+
+
+
+Task 3: Connecting randomButton to a method
+
+From the UI editing view, right click the button with the text "Random Button". Choose "Go to slot...", then choose "clicked()".
+
+1) What is the name of the method that was created? What object is it a method of? When you look in the header file for that object, what is this method?
+
+
+2) Write code in this method that prints to std::cout. What happens?
+
+
+3) Write code in this method that prints to qDebug(). What happens?
+
+
+4) Add code to the method that was created so that the text of the random label changes each time you click the button.
+
+
+
+
+
+Task 4: Connecting a signal to a non-default slot
+
+1) Add a slot void SlotTest to your PlotWindow. You'll need to add the method declaration in the .h file and the implementation in the .cpp file. Put a print to qDebug() in this slot.
+
+
+
+2) Connect the signal of &QAbsractButton::pressed to the slot that you made for number 1. What are the differences between the clicked and the pressed events?
+
