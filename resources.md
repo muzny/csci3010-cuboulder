@@ -4,6 +4,8 @@ Qt & Qt Creator
 ---------------
 [__Qt documentation__](http://doc.qt.io/)
 
+[__qDebug()__](http://doc.qt.io/qt-5/qdebug.html)
+
 [__Hello world Qt tutorial__](https://prognotes.net/2016/11/qt-5-hello-world-tutorial-using-qt-creator/)
 
 
