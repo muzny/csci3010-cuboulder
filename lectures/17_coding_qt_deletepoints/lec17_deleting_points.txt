@@ -21,7 +21,7 @@ Task 1: Adding a static boolean delete_mode_ field to the Point class
 1) Add a static boolean to the Point class called delete_mode_. This boolean should be set to False when you are not in "delete mode" and to True when you are in "delete mode". You should also change what the cursor looks like with the ui->centralWidget->setCursor() method when you are in delete mode vs. regular mode that takes a Qt Cursor Shape enum (http://doc.qt.io/qt-5/qt.html#CursorShape-enum).
 
 
-2) Attach the Delete Points button's clicked signal to a slot that changes the value of the Point::delete_me_ field.
+2) Attach the Delete Points button's clicked signal to a slot that changes the value of the Point::delete_mode_ field.
 
 
 Task 2: Emitting a DeletePoint signal from Point
