@@ -34,7 +34,7 @@ Office Hours: [posted on piazza](https://piazza.com/colorado/fall2018/csci3010/s
 8 (10/15) | GUIs, Qt (plot project day 1) | [HW 3](homeworks/hw3_election/) / [Individual Project Checkpoint](homeworks/individual_projects) | GUIs, Qt (plot project day 2) |
 9 (10/22) | [__PE 9__](programming_exercises/pe9.md)  GUIs | | [__PE 10__](programming_exercises/pe10.md) ~~__canceled__~~ 
 10 (10/29) | [__PE 11__](programming_exercises/pe11.md)  writing servers/clients |  | __PE 12__  Programming languages
-11 (11/5) |  functional programming, map/reduce/filter | HW 4 |   map/reduce/filter 
+11 (11/5) |  functional programming, map/reduce/filter | [HW 4](homeworks/hw4_life/) / [Individual Project Checkpoint](homeworks/individual_projects/) |   map/reduce/filter 
 12 (11/12) | Final projects |  | Final projects
 13 (11/19) | THANKSGIVING WEEK | | 
 14 (11/26) | TBD | Checkpoint 1 | Projects workshop
