@@ -33,7 +33,7 @@ Office Hours: [posted on piazza](https://piazza.com/colorado/fall2018/csci3010/s
 7 (10/8) | [__PE 7__](programming_exercises/pe7.md) GUIs, low-fidelity prototyping | | [__PE 8__](programming_exercises/pe8.md)  GUIs, user testing, Qt (part 1) |
 8 (10/15) | GUIs, Qt (plot project day 1) | [HW 3](homeworks/hw3_election/) / [Individual Project Checkpoint](homeworks/individual_projects) | GUIs, Qt (plot project day 2) |
 9 (10/22) | [__PE 9__](programming_exercises/pe9.md)  GUIs | | [__PE 10__](programming_exercises/pe10.md) ~~__canceled__~~ 
-10 (10/29) | writing servers/clients | | [__PE 11__](programming_exercises/pe11.md)  writing servers/clients  ;            __PE 12__ (due Friday)
+10 (10/29) | writing servers/clients | | [__PE 11__](programming_exercises/pe11.md)  writing servers/clients  ;            __PE 12__ (PE 12 is due Friday)
 11 (11/5) |  Programming languages, functional programming |  |   map/reduce/filter; [HW 4](homeworks/hw4_life/) / [Individual Project Checkpoint](homeworks/individual_projects/) (due __Friday__)
 12 (11/12) | map/reduce/filter, Final projects |  | Final projects
 13 (11/19) | THANKSGIVING WEEK | | 
