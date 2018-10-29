@@ -35,8 +35,8 @@ Office Hours: [posted on piazza](https://piazza.com/colorado/fall2018/csci3010/s
 9 (10/22) | [__PE 9__](programming_exercises/pe9.md)  GUIs | | [__PE 10__](programming_exercises/pe10.md) ~~__canceled__~~ 
 10 (10/29) | writing servers/clients | | [__PE 11__](programming_exercises/pe11.md)  writing servers/clients  ;            __PE 12__ (PE 12 is due Friday)
 11 (11/5) |  Programming languages, functional programming |  |   map/reduce/filter; [HW 4](homeworks/hw4_life/) / [Individual Project Checkpoint](homeworks/individual_projects/) (due __Friday__)
-12 (11/12) | map/reduce/filter, Final projects |  | Final projects
+12 (11/12) | map/reduce/filter, Final projects |  | __PE 13__ Final projects
 13 (11/19) | THANKSGIVING WEEK | | 
 14 (11/26) | TBD | Checkpoint 1 | Projects workshop (__required check-in__)
-15 (12/3) | __PE 13__ Cryptography | | __PE 14__ Security
+15 (12/3) | Cryptography | | __PE 14__ Security
 16 (12/10) | Project presentations | Final project due | Project presentations
