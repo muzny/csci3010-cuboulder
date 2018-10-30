@@ -1,0 +1,20 @@
+1) Install boost
+Linux:
+$ sudo apt-get update
+$ sudo apt-get install libboost-all-dev
+
+Mac OS
+if you don't have brew installed, otherwise, go install it first
+https://brew.sh/
+
+$ brew install boost
+
+2) Make & build a simple web server
+Clone this simple web server: https://gitlab.com/eidheim/Simple-Web-Server
+Follow the “Compile and run” instructions for the Simple Web Server
+
+If you do not have cmake installed:
+$ sudo apt-get install cmake
+
+At the end of this step, you should have a simple web server that provides an API up and running over http.
+
