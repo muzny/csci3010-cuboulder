@@ -1,0 +1,54 @@
+Name(s):
+
+-----------------------------------------
+Exploring the API (look at messenger.cpp)
+-----------------------------------------
+
+1. What endpoints are available? What kind of requests do they accept? What url parameters can they take? What format should the data be in?
+
+--------------------------------------------------------------------------
+Using curl, do the following tasks. Copy+paste the commands you used below
+--------------------------------------------------------------------------
+-i (--include) include the HTTP-header in the output
+-X (--request) specifies what kind of request to make
+-d (--data) specifies what data to send along with your request
+
+1. Get a list of available chat rooms
+
+
+2. Create a new chat room
+
+
+3. Post a message in a chat room
+
+
+4. Display the contents of a chat room
+
+
+--------------------------------------------------------------------------
+Using a browser extension such as Postman, HttpRequester, Insomnia, etc... 
+--------------------------------------------------------------------------
+
+Do tasks 1 - 4, using the browser extension of your choice.
+
+What are advantages/disadvantages of using curl versus the extension that you used?
+
+
+
+-------------------------
+Improving our web service
+-------------------------
+Take the provided code and modify messenger.cpp.
+
+The steps for building are the same as for Simple-Web-Server (https://gitlab.com/eidheim/Simple-Web-Server.git)
+
+
+1. Make it so that if a user tries to create a room that already exists, that room isn't re-created.
+
+2. Add more endpoints of your own.
+
+
+
+
+
+
