@@ -9,6 +9,9 @@ https://brew.sh/
 
 $ brew install boost
 
+if you don't have cmake installed:
+$ brew install cmake
+
 2) Make & build a simple web server
 Clone this simple web server: https://gitlab.com/eidheim/Simple-Web-Server
 Follow the “Compile and run” instructions for the Simple Web Server
