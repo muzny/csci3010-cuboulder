@@ -39,4 +39,4 @@ Office Hours: [posted on piazza](https://piazza.com/colorado/fall2018/csci3010/s
 13 (11/19) | THANKSGIVING WEEK | | 
 14 (11/26) | TBD | Checkpoint 1 | Projects workshop (__required check-in__)
 15 (12/3) | Cryptography | | __PE 14__ Security
-16 (12/10) | Project presentations | Final project due | Project presentations
+16 (12/10) | Project presentations | [Final project due](homeworks/hw5_settlers/) | Project presentations
