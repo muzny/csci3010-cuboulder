@@ -43,9 +43,11 @@ Take the provided code and modify messenger.cpp.
 The steps for building are the same as for Simple-Web-Server (https://gitlab.com/eidheim/Simple-Web-Server.git)
 
 
-1. Make it so that if a user tries to create a room that already exists, that room isn't re-created.
+1. Make it so that if a user tries to create a room that already exists, that room isn't re-created. Copy + paste your modified /createroom endpoint here.
 
-2. Add more endpoints of your own.
+
+
+2. Add more endpoints of your own. Copy & paste the code that you've added here.
 
 
 
