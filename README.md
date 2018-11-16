@@ -37,6 +37,6 @@ Office Hours: [posted on piazza](https://piazza.com/colorado/fall2018/csci3010/s
 11 (11/5) |  Programming languages, functional programming |  |   map/reduce/filter; [HW 4](homeworks/hw4_life/) / [Individual Project Checkpoint](homeworks/individual_projects/) (due __Friday__)
 12 (11/12) | map/reduce/filter, Final projects |  | [__PE 13__](programming_exercises/pe13.md) Final projects; [Checkpoint 0 for standard HW 5](https://moodle.cs.colorado.edu/mod/assign/view.php?id=31547)
 13 (11/19) | THANKSGIVING WEEK | | 
-14 (11/26) | TBD |  | Projects workshop (__required check-in in class__); Checkpoint 1 (__due Friday at 8pm__)
+14 (11/26) | TBD |  | Projects workshop (__required check-in in class for HW 5__); Checkpoint 1 (__due Friday at 8pm__)
 15 (12/3) | Cryptography | | __PE 14__ Security
-16 (12/10) | Project presentations | [Final project due](homeworks/hw5_settlers/) | Project presentations
+16 (12/10) | Project presentations (Individual projects) | [Final project due](homeworks/hw5_settlers/) | Project presentations (HW 5)
