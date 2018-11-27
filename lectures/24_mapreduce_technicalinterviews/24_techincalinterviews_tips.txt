@@ -34,8 +34,10 @@ tips:
 4) know what algorithms that have runtimes of n, n^2, n^n, log(n), n! look like in general
 
 
+5) Use a language that you are comfortable with (and use it well!)
 
-5) make sure you've done your research on the company and have some questions prepared to ask the interviewer
+
+6) make sure you've done your research on the company and have some questions prepared to ask the interviewer
 
 
 
