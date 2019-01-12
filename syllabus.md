@@ -1,4 +1,4 @@
-CSCI 3010: Programming Project Workshop -- Fall 2018
+CSCI 3010: Programming Project Workshop -- Spring 2019
 =====================
 
 Course Information:
@@ -10,15 +10,16 @@ Contact: muzny@colorado.edu
 Office: ECOT (engineering center tower) 734  
 
 Credit: 3 credits  
-Lecture times: Tuesdays & Thursdays 9:30 - 10:45am, ECES 114  
-Course website (for homework submissions): https://moodle.cs.colorado.edu  
+Lecture times: Tuesdays & Thursdays 11am - 12:15pm, ECES 114  
+Course website (for homework submissions): 
 
-Piazza discussion forum: https://piazza.com/colorado/fall2018/csci3010/  
+Piazza discussion forum:   
 
-CA:  
-Kyle Helmick, kyle.helmick@colorado.edu
+CA: James McDonald  
 
-Office Hours: [posted on piazza](https://piazza.com/colorado/fall2018/csci3010/staff)
+Grader: Soumyajyoti Bhattacharya  
+
+Office Hours: TBD  
 
 Course goals
 -----------
@@ -34,9 +35,8 @@ Topics
 - Unit testing  
 - Design patterns in object oriented programming  
 - Designing and building Graphical User Interfaces  
-- Programming languages (static vs dynamic, functional programming, etc)  
-- Map/reduce/filter (functional programming)  
-- Cryptography and security  
+- Generalizing programming languages  
+- A few miscellaneous topics, such as cryptography and security  
 
 [For  an up-to-date calendar with links, visit the README](README.md)
 
@@ -61,9 +61,12 @@ Collaboration Policy
 ----------
 You are expected to do your work yourself or with your partner when indicated.
 
-The collaboration policy is simple:  
-- __Inspiration is free__: you may discuss homework assignments with anyone. You are especially encouraged to discuss strategies with your instructor, your TAs, and your classmates. “Discuss” does not mean “copy” or “show me your homework”.  
-- __Plagiarism is forbidden__: assignments and code that you turn in should be written entirely on your own. You should not need to consult sources beyond your textbook, class notes, posted lecture slides and notebooks, and Python/Matplotlib documentation.   Copying/soliciting a solution to a problem from the internet or another classmate constitutes a violation of the course's collaboration policy and the honor code and will result in a trip to the honor council, loss of credit for the assignment, and a grade reduction.  
+- __Strategies__: You may talk with your classmates about general strategies but you may not talk about specific solutions.
+- __Explaining concepts__: You may talk with your classmates about how certain techniques work in general but not how to write any part (or sub-part) of the solution needed for the homework.
+- __A good rule of thumb__: don't show your assignments to other people; don't look at other people's assignments; don't write code together unless the assignment explicitly states that you may work in pairs. This includes working through solutions on whiteboards as well as telling your friend verbally what you have written. 
+
+The finer-grained details:  
+- __Plagiarism__: assignments and code that you turn in should be written entirely on your own. You should not need to consult sources beyond your textbook, class notes, posted lecture slides and notebooks, and Python/Matplotlib documentation.   Copying/soliciting a solution to a problem from the internet or another classmate constitutes a violation of the course's collaboration policy and the honor code and will result in a trip to the honor council, loss of credit for the assignment, and a grade reduction.  
 - __Do not search for a solution online__: You may not actively search for a solution to the problem from the internet. This includes posting to sources like StackExchange, Reddit, Chegg, etc.  
 - __StackExchange Clarification__: Searching for basic techniques in Python is totally fine. If you want to post and ask "How do convert a float to an integer" that's fine. What you cannot do is post "Here's the function my prof gave me to write. I need to convert this temperature in celcius to farenheit. Give me code!". That's cheating.  
 - __Tutors__: you should always consult piazza, the CA, and the instructor for this course if you need extra help. They are here specifically to help you! You should never have anyone else write code for you. This includes tutors, friends, strangers, friends of friends. Anyone who is not you. You can review concepts with tutors, just not specific homework problems.  
