@@ -79,11 +79,11 @@ Grading
 
 | | Due Dates and Other Information | Total Points | Grade Percentage |
 |---|---|---|---|
-| Programming Exercises | Due Tuesdays and Thursdays before class. Each exercise is worth 20 points. There are 14 total. Points over 250 are extra credit. | 250 | 25% |
-|Homeworks | Wednesdays at 11:55pm | 600 | 60% |  
+| Programming Exercises | Due Tuesdays and Thursdays before class. Most exercises are worth 20 points. There are a total of 280 possible points in this category. Points over 250 are extra credit. | 250 | 25% |
+| Homework | Wednesdays at 9pm (except HW 4, due Friday at 9pm) | 600 | 60% |  
 | In Class Activities | Every class session. 5 points each. | 150 | 15% |  
 
-This course doesn’t have any midterm or final exams.
+This course doesn’t have any midterms or final exams.
 
 Individual Projects vs. Homeworks
 ----------------
