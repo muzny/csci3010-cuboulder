@@ -19,7 +19,7 @@ CA: James McDonald
 
 Grader: Soumyajyoti Bhattacharya  
 
-Office Hours: TBD  
+Office Hours: [Google calendar link](https://calendar.google.com/calendar?cid=Y29sb3JhZG8uZWR1X2xoaTY1azV2OXUyNmxjMWRvNXYzODdoYmg0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)  
 
 Course goals
 -----------
