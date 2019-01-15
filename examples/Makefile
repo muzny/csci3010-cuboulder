@@ -1,7 +1,7 @@
 # This is an example make file
 
 CXX = g++  # the compiler
-CXXFLAGS = -std=c++11 -ggdb -Wall  # flags for the compiler (use c++11 standards, include gdb debug info, turn on all optional warnings)
+CXXFLAGS = -std=c++11 -Wall  # flags for the compiler (use c++11 standards, turn on all optional warnings); add -ggdb if you want to use gdb to debug!
 
 # runs for "make all"
 all: target1 target2
