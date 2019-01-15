@@ -1,7 +1,7 @@
 Programming Exercise 1 (`Point`)
 ==================
 
-For this exercise, you should turn in four files on moodle:
+For this exercise, you should turn in four files as `pe1.zip` on canvas:
 
 `Point.cc` or `Point.cpp` (should include function comments)
 
