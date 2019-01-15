@@ -1,4 +1,4 @@
-CSCI 3010: Programming Project Workshop -- Fall 2018
+CSCI 3010: Programming Project Workshop -- Spring 2019
 =====================
 
 See the [syllabus](syllabus.md) for information about course policies and grading.
