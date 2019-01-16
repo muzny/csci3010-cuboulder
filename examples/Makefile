@@ -7,6 +7,7 @@ CXXFLAGS = -std=c++11 -Wall  # flags for the compiler (use c++11 standards, turn
 all: target1 target2
 
 # runs for "make target1"
+# the line below this one must be TABBED in (not spaces!)
 target1: DependsOn.o
     $(CXX) $(CXXFLAGS) main.cpp DependsOn.o -o target1 # name of output should be consistent
 
