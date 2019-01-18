@@ -8,7 +8,7 @@ Programming Exercises (PEs) and Homeworks are marked on the day that they are du
 |Week (Monday date) | Tuesday (lecture/lab) | Wednesday (homework) | Thursday (lecture/lab) |
 | --- | --- | --- | --- |
 1 (1/14) | Introduction, c++ fundamentals | | C++ and objects (part 1) |
-2 (1/21) | [__PE 1__](programming_exercises/pe1.md)  Objects and structs (part 2) | | __PE 2__  Objects and structs (part 3) |
+2 (1/21) | [__PE 1__](programming_exercises/pe1.md)  Objects and structs (part 2) | | [__PE 2__](programming_exercises/pe2.md)  Objects and structs (part 3) |
 3 (1/28) | __PE 3__  bash/terminal and scripts | | __PE 4__  Version control/ git (part 1) |
 4 (2/4) | Version control/git, code reviews | __HW 1__ | Testing, CI |
 5 (2/11) | __PE 5__  inheritance | | __PE 6__  static / Design patterns (part 1) |
