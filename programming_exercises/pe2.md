@@ -1,7 +1,7 @@
 PE 2 (Generic `Point`)
 =================
 
-Modify your `Point` class or use the one provided (will be posted 1/22, when PE 1 is due) to create a `Point` that can be n-dimensional. Your `Point`’s constructor should take a vector of integers as an argument. You should add a method that reports how many dimensions this `Point` object is. You should modify your getter methods so that they still work. 
+Modify your `Point` class or use the one provided (posted after PE 1 is due--example_point.zip on canvas) to create a `Point` that can be n-dimensional. Your `Point`’s constructor should take a vector of integers as an argument. You should add a method that reports how many dimensions this `Point` object is. You should modify your getter methods so that they still work. 
 
 (Hint: make it so your getter method takes an int indicating which dimension the user is interested in the value of.)
 (Hint: using a `std::vector<int>` to store your coordinates will be significantly easier than an `int[]`.)
