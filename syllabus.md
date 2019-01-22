@@ -49,7 +49,7 @@ Late Policy
 -------
 All homeworks may be turned in up to 3 days (72 hours) late for a 20% penalty. If a homework is due on Wednesday at 11:55pm, it may be turned in as late as Saturday at 11:55pm. If a student would have received a 95% had they turned their homework in on time, a late submission will earn them a 75% instead.
 
-In class activities must be completed in class.
+In class activities must be completed in class. __update/clarification__: you must be present in class to receive credit for in-class activities. Submission items will stay open until 11:59 the day of class should you wish to continue working, but you are expected to turn in what you have at the end of class.
 
 Programming exercises may not be turned in late.
 
