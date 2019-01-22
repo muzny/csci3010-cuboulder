@@ -11,5 +11,5 @@ clean:
 run_library: Library.o
 	$(CXX) $(CXXFLAGS) run_library.cpp Library.o -o run_library
 
-Point.o: Point.cpp
+Library.o: Library.cpp
 	$(CXX) $(CXXFLAGS) -c Library.cpp
