@@ -16,7 +16,7 @@ For those of you who currently use `zsh` or any other non-bash unix shell--[read
 
 Extras! (for fun AND functionality)
 - Add an indication for whether or not your branch is ahead of remote. If you are already experienced with git, doing this is recommended!
-- Customize [the other information desplayed in your prompt](https://ss64.com/bash/syntax-prompt.html)
+- Customize [the other information displayed in your prompt](https://ss64.com/bash/syntax-prompt.html)
 
 __Turn in:__ pe4.zip, including your .bashrc file and a picture showing your prompt in the following three states:
 1. not in a git repo
