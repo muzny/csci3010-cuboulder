@@ -13,4 +13,19 @@ Using the materials from lecture on Tuesday ([lecture 5](../lectures/5_bash_term
 Your prompt must use at least 3 different colors. To complete this exercise, turn in your .bashrc file and a screen shot showing your prompt indicating both different states above when in a git repo. Your prompt should not break when not in a git repo.
 
 For those of you who currently use `zsh` or any other non-bash unix shell--[read about how to change your shell](http://www.peachpit.com/articles/article.aspx?p=659655&seqNum=3) and implement your own PS1 in bash.
-- (if your branch is ahead of remote) No longer required (9/11 11:32 am) If you are already experienced with git, doing this is recommended
+
+Extras! (for fun AND functionality)
+- Add an indication for whether or not your branch is ahead of remote. If you are already experienced with git, doing this is recommended!
+- Customize [the other information desplayed in your prompt](https://ss64.com/bash/syntax-prompt.html)
+
+__Turn in:__ pe4.zip, including your .bashrc file and a picture showing your prompt in the following three states:
+1. not in a git repo
+2. in a clean git repo
+3. in a dirty repo
+4. (anything else you want to show us)
+
+Extra resources:
+- Colors for bash:
+    1. [codes link](https://misc.flogisoft.com/bash/tip_colors_and_formatting)
+    2. [bash how to link](http://tldp.org/HOWTO/Bash-Prompt-HOWTO/x329.html)
+    3. [unix stack exchange on this topic](https://unix.stackexchange.com/questions/124407/what-color-codes-can-i-use-in-my-ps1-prompt)
