@@ -47,9 +47,18 @@ done;
 
 16. Change directories to the parent directory of lec5_directory.
 
-17. What command will you use to zip up your lec5_directory and all files and subdirectories to produce lec5.zip? (Answer, then do this and turn your zip file in on moodle). You can use `unzip -l lec5.zip` to check the contents of your zip file. If you are working on JupyterLab, use the "jar" command to create this zip.
+17. !DANGER! Careful not to destroy your work at this step !DANGER!
+Make a copy of lec5_excerices.txt from the directory it is currently in to the directory that your terminal is currently in. Then remove that copy.
+
+18. What command can you use to zip up your lec5_directory and all files and subdirectories to produce lec5.zip?
 
 -- If you finish early --
+0. What command can you use to see the contents of lec5.zip?
+
 1. List all files in your thisissilly directory between 10.silly and 19.silly (inclusive). Use `ls` with a "?" wildcard (matches 1 single character).
 
 2. Use the `less` command and the `cat` command on this file. What are the differences?
+
+3. Use the `head` and `tail` commands on this file. What are the differences? What does the -n flag do?
+
+4. How do you search for a word in the man pages?
