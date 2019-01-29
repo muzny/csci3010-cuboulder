@@ -4,6 +4,7 @@ Bash Commands to know and love
 ----------------------
 
 - `pwd`
+- `ls`
 - `cd`
 - `mkdir`
 - `mv`
