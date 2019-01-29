@@ -6,11 +6,11 @@ all: boolean conditionals loops
 clean:
 	rm boolean conditionals loops
 
-boolean: booleanzen.cpp
-	$(CXX) $(CXXFLAGS) booleanzen.cpp -o boolean
+boolean: booleanzen_factored.cpp
+	$(CXX) $(CXXFLAGS) booleanzen_factored.cpp -o boolean
 
-conditionals: conditionals.cpp
-	$(CXX) $(CXXFLAGS) conditionals.cpp -o conditionals
+conditionals: conditionals_factored.cpp
+	$(CXX) $(CXXFLAGS) conditionals_factored.cpp -o conditionals
 
-loops: loopsmagicnums.cpp
-	$(CXX) $(CXXFLAGS) loopsmagicnums.cpp -o loops
+loops: loopsmagicnums_factored.cpp
+	$(CXX) $(CXXFLAGS) loopsmagicnums_factored.cpp -o loops
