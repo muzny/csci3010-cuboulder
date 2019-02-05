@@ -1,3 +1,5 @@
+[link to one of many git branching tutorials](https://www.atlassian.com/git/tutorials/using-branches)
+
 1. Fill out the front of the git branches worksheet.
 2. On the back of the worksheet, create [your own git cheat sheet](../6_version_control_git/git_cheat_sheet.md). Include instructions to yourself for how to do all of the following tasks with git:
     1. Modify files and commit changes locally.
