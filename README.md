@@ -3,6 +3,8 @@ CSCI 3010: Programming Project Workshop -- Spring 2019
 
 See the [syllabus](syllabus.md) for information about course policies and grading.  
 
+Link to the [course collaboration repository](https://github.com/muzny/csci3010-spring2019-collab).  
+
 Programming Exercises (PEs) and Homeworks are marked on the day that they are due.  
 
 |Week (Monday date) | Tuesday (lecture/lab) | Wednesday (homework) | Thursday (lecture/lab) |
