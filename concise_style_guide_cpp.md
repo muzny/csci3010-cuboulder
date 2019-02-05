@@ -57,7 +57,7 @@ It takes one command-line argument, the path to the maze file.
 */
 ```
 
-__Function comments__: Should provide a brief description of what the function does, what parameters it takes, and what it returns. A user should know how to run the function using only your comment and the function header.
+__Function comments__: Should provide a brief description of what the function does, what parameters it takes, and what it returns. A user should know how to run the function using only your comment and the function header. For this class, we'll put function comments in the `.cpp` files. [Here is an overview about where documentation normally goes](https://softwareengineering.stackexchange.com/questions/84071/is-it-better-to-document-functions-in-the-header-file-or-the-source-file).
 
 ```c++
 /**
