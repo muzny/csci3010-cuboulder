@@ -3,7 +3,7 @@ PE 5 (unit testing)
 
 (To be done in pairs, preferably.)
 
-Your job has two parts for this programming assignment. Both parts involve the materials provided in [lecture 8](../lectures/8_testing). Using the folder of provided files that corresponds to the operating system that you and your partner are working on, do the following:
+Your job has two parts for this programming assignment. Both parts involve the materials provided in [lecture 8](../lectures/8_git_branches_unittests). Using the folder of provided files that corresponds to the operating system that you and your partner are working on, do the following:
 
 1. __Find the bugs__: We have given you the compiled-to-object-code version of `Rectangle.cpp`. The code that this was compiled from is buggy. Find those bugs. You should write unit tests for the constructor and each of the member functions (other than `get_p1` and `get_p2`).
 
