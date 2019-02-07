@@ -10,3 +10,6 @@
     3. Everyone should make at least 1 comment on the pull request. If you think that no changes need to be made, birefly describe why.
 ---
 3. Complete the [lecture 8 activities regarding Catch and unit tests](lec8_turnin.txt) with your partners from questions 1 and 2.
+    1. [Catch2 tutorial](https://github.com/catchorg/Catch2/blob/master/docs/tutorial.md#top)
+    2. [Catch2 assertion macros](https://github.com/catchorg/Catch2/blob/master/docs/assertions.md#top)
+    3. These are also linked [in our resources document](https://github.com/muzny/csci3010-cuboulder/blob/master/resources.md#unit-testing)
