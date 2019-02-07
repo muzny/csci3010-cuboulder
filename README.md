@@ -12,8 +12,8 @@ Programming Exercises (PEs) and Homeworks are marked on the day that they are du
 1 (1/14) | Introduction, c++ fundamentals | | C++ and objects (part 1) |
 2 (1/21) | [__PE 1__](programming_exercises/pe1.md)  Objects and structs (part 2) | | [__PE 2__](programming_exercises/pe2.md)  Objects and structs (part 3) |
 3 (1/28) | [__PE 3__](programming_exercises/pe3.md)  bash/terminal and scripts | | [__PE 4__](programming_exercises/pe4.md)  Version control/ git (part 1) |
-4 (2/4) | Version control/git, code reviews | [__HW 1__](homework/hw1_mazegame/) | Testing, CI |
-5 (2/11) | __PE 5__  inheritance | | __PE 6__  static / Design patterns (part 1) |
+4 (2/4) | Version control/git, code reviews | [__HW 1__](homework/hw1_mazegame/) | git branches, testing |
+5 (2/11) | [__PE 5__](programming_exercises/pe5.md)  CI, inheritance | | __PE 6__  static / Design patterns (part 1) |
 6 (2/18) | Design patterns (part 2) | __HW 2 / [Individual Project Proposal](homework/individual_projects)__ | Design patterns (part 3) |
 7 (2/25) | __PE 7__ review, technical interviews | | __PE 8__  low-fi prototyping, GUIs, user testing |
 8 (3/4) | GUIs, Qt (intro) | __HW 3 / Individual Project Checkpoint__ | GUIs, Qt (plot project day 1) |
