@@ -37,6 +37,15 @@ Inheritance
 [__part 2 inheritance from UW__](https://courses.cs.washington.edu/courses/cse333/18su/lectures/19-c++-casts.pdf)  
 
 
+Continuous Integration
+-----------
+[__Travis/CI core concepts__](https://docs.travis-ci.com/user/for-beginners/)
+
+[__example .travis.yml file__](https://github.com/muzny/csci3010-spring2019-collab/blob/master/.travis.yml)
+
+[__Travis embedding status icons__](https://docs.travis-ci.com/user/status-images/)
+
+
 Unit Testing
 -----------
 [__Catch2 tutorial__](https://github.com/catchorg/Catch2/blob/master/docs/tutorial.md#top)
