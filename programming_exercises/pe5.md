@@ -9,6 +9,6 @@ Your job has two parts for this programming assignment. Both parts involve the m
 
 2. __Implement a non-buggy version of `Rectangle.cpp`__: After you have found the bugs, implement your own `Rectangle.cpp` file that doesn't have bugs.
 
-You'll turn in one zip file per partnership on moodle: `pe5.zip` containing `test.cpp`, `Rectangle.[h,cpp]`, `catch.cpp`, and your `Makefile`.
+You'll turn in one zip file per partnership on moodle: `pe5.zip` containing `test.cpp`, `Rectangle.[h,cpp]`, `catch.hpp`, and your `Makefile`.
 
 __In the comments of `Rectangle.cpp`:__ Make sure to include the names of yourself and your partner, then, __write the bugs that you found in the original `Rectangle.o` file in the comments before your implementations__.
