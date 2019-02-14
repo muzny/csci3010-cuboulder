@@ -28,6 +28,15 @@ public:
 
 };
 
+class Turtle : public Reptile {
+public:
+	Turtle(std::string s2):
+	Reptile(s2 + "Turtle")
+	{}
+
+	int GetPower() { return 7; };
+
+};
 // Define your animals here.
 // Define one class that inherits from Animal and one class that inherits from child class of Animal
 
