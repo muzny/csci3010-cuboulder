@@ -9,6 +9,9 @@ int main(int argc, char **argv){
 
     // 1) Get an instance of your earth object
 
+    // Call static methods with the syntax:
+    // ClassName & instance = ClassName::MethodName();
+
     // 2) Get another instance of your earth object
 
     // 3) Test to see if the two Earth instances from #1 and #2 are stored at the same
