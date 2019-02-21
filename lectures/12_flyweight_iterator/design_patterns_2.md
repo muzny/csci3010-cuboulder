@@ -27,3 +27,23 @@ When not to use:
 
 Iterator
 -------
+What:  
+Specifies an order of traversal for a collection and provides a standard interface
+to that traversal.
+
+How:
+- define the starting point for the iterator
+- define how to go to the next element
+- define the ending point for the iterator
+
+```c++
+collection<type>::iterator it = collection_var.begin();
+
+while (it != collection_var.end()) {
+  // do whatever
+  std::cout << *(it) << std::endl;
+  it++;
+}
+```
+
+
