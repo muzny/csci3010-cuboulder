@@ -1,0 +1,3 @@
+1. Finish the prototype (Creature) exercises in [lecture 13](../13_factory_prototype). If you were not here on Tuesday, we will pair you with someone who was. Turn in Creature.h and main.cpp on canvas under lecture 14 - finish prototype (even if you already turned it in completed!).
+2. Do the review in this folder. Begin by doing it individually with no internet. Then, go back and correct and fill in answers that you did not know by talking to your table mates. Then, work with your table mates to consult your notes and the internet to finish the review questions. Turn this review in individually on canvas. If you have not finished/left some questions blank, this is okay.
+3. Work on HW 3 until we move to the next activity ~11:45.
