@@ -18,7 +18,7 @@ Programming Exercises (PEs) and Homeworks are marked on the day that they are du
 7 (2/25) | [__PE 6__](programming_exercises/pe6.md)  Design patterns (part 3) | | [__PE 7__](programming_exercises/pe7.md) review, techincal interviews |
 8 (3/4) | technical interviews, low-fi prototyping | __[HW 3](homework/hw3_election) / [Individual Project Checkpoint](homework/individual_projects)__ | user testing, GUIs, Qt (intro) |
 9 (3/11) | [__PE 8__](programming_exercises/pe8.md)  GUIs, Qt (plot project day 1) | | [__PE 9__](programming_exercises/pe9.md) GUIs, Qt (plot project day 2) |
-10 (3/18) | GUIs, Qt (plot project day 3) | |   Final projects, GUIs (final)           __HW 4 / Individual Project Checkpoint__ (HW 4 is due Friday)
+10 (3/18) | GUIs, Qt (plot project day 3) | |   Final projects, GUIs (final)           __[HW 4](homework/hw4_life) / [Individual Project Checkpoint](homework/individual_projects)__ (HW 4 is due Friday)
 11 (3/25) | SPRING BREAK | | 
 12 (4/1) |  Final projects, designing workshop |  |  __PE 10__ templating and generalizing 
 13 (4/8) | __PE 11__ templating and generalizing |  | __PE 12__ Technical Interviews (part 2)  
