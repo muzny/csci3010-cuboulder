@@ -26,4 +26,4 @@ PE 8 (collab repo clean up + Qt installation + 1st technical interview)
 
 __To turn in__:
 - 1 screenshot of your installed version of Qt Creator running your application with the updated status bar.
-- 2 a text file in which you answer the following questions: in Qt, what is a signal? what is a slot? Where are they used in the TextFinder tutorial? (Feel free to [read the Qt documentation about signals and slots](http://doc.qt.io/qt-5/signalsandslots.html))
+- 2 a text file in which you answer the following questions: in Qt, what is a signal? what is a slot? <s>Where are they used in the TextFinder tutorial?</s> (updated 3/10, 10am) (Feel free to [read the Qt documentation about signals and slots](http://doc.qt.io/qt-5/signalsandslots.html))
