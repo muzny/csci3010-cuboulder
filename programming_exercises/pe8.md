@@ -23,6 +23,14 @@ PE 8 (collab repo clean up + Qt installation + 1st technical interview)
     6. Edit `mainwindow.cpp` by adding `ui->statusbar->showMessage("YOUR MESSAGE HERE")` to the `MainWindow` constructor. Run the application and take a screenshot. Make sure to replace the string "YOUR MESSAGE HERE" with a message of your own!
 
 4. (10 points) Complete a mini-technical interview with Soumyajyoti during the weeks of 3/12 - 3/22. (Scheduler to appear on canvas).
+Here is non-exhaustive a list of topics to review!
+- linked lists (implementation & manipulation)
+- stacks, maps, queues (when and how to use them)
+- string manipulation
+- working with 2d arrays/vectors
+- recognizing the complexity of your solutions
+
+
 
 __To turn in__:
 - 1 screenshot of your installed version of Qt Creator running your application with the updated status bar.
