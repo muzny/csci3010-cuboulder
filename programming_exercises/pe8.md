@@ -29,6 +29,7 @@ Here is non-exhaustive a list of topics to review!
 - string manipulation
 - working with 2d arrays/vectors
 - recognizing the complexity of your solutions
+Note! Mainy of your points will be assigned based on how effectively you communicate and describe your algorithm!
 
 
 
