@@ -15,5 +15,5 @@ Qt .ui files are XML files that use tags to organize GUI elements in your panels
 
 There are several other files and directories in your Qt project that should be added to your .gitignore which are not part of the codebase and do not need to be part of your repo:
 * \*.pro.user
-* Any build directories, formatted as \build-projectname-Target_Qt_version_clang_32or64bit-Buildtype
-	* You should be able to add a gitignore entry formatted as \build-\*
+* Any build directories, formatted as build-projectname-Target_Qt_version_clang_32or64bit-Buildtype/
+	* You should be able to add a gitignore entry formatted as build-\*/
