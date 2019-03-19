@@ -10,3 +10,10 @@ Qt .ui files are XML files that use tags to organize GUI elements in your panels
 * You can assign one user as the "keeper of the GUI" and make sure they are the only one who is pushing UI changes to master or approving pull requests for this file.
 	* Once changes are made to the UI, it is often easier for other developers to just copy and paste the contents of the updated .ui file to their local copy to avoid having to deal with any merge conflicts.
 * As a side note, be careful about making small adjustments to your .ui file.  Changing an object's name or location slightly can case mass confusion on a big project.  Communication is key!
+
+<h1>Other Files and Directories</h1>
+
+There are several other files and directories in your Qt project that should be added to your .gitignore which are not part of the codebase and do not need to be part of your repo:
+* \*.pro.user
+* Any build directories, formatted as \build-projectname-Target_Qt_version_clang_32or64bit-Buildtype
+	* You should be able to add a gitignore entry formatted as \build-\*
