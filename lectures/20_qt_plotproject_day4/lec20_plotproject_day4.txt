@@ -1,0 +1,56 @@
+# Names:
+
+
+
+# You may work with 1 or 2 partners for this activity.
+
+
+On Tuesday, we worked on deleting Points, which required using both default slots/signals and custom slots/signals. The completed code can be found in the github from that day.
+
+
+The task for today will be detecting modified clicks (like when the user is pressing "shift" when they click or if they are right-clicking).
+
+
+
+Task 0: Make sure you have the code from last class
+---------------------------------------------
+
+If you did not finish the Tasks from last class or you were not here, download the completed zip file.
+
+
+Task 1: Detecting a shift-click on a Point, updating the GUI with coordinates
+-----------------------------------------------
+1) In the mousePressEvent in Point, add a conditional that prints a debug statement when the user shift-clicks a point. You can access the modifiers of the event that triggered this slot by using event->modifiers() method. To see if a certain modifier was used, you can test if the flags return == Qt::ModifierYouAreLookingFor.
+
+You may find looking at https://doc.qt.io/qt-5/qt.html#KeyboardModifier-enum useful.
+
+Take a look at the documentation for the modifiers() method--what is one way that you can break it?
+
+
+
+2) Create a new signal in Point that carries a Point * as a parameter. Emit this signal when a Point is shift-clicked. Hook this signal up to a new slot in PlotWindow. Use debug statements to verify that they are connected for all Points that are created.
+
+
+3) Use the slot in PlotWindow that you created for #2 to update the text for point1Label. Here's some code to help you out with dealing with the QString:
+
+std::string p1 = "Point 1: (" + std::to_string(p->get_x()) + ", " + std::to_string(p->get_y()) + ")";
+QString s(p1.c_str());
+
+
+4) What happens to your GUI if you shift-click one Point? What happens if you shift-click a second Point?
+
+
+5) Modify your PlotWindow so that when a Point is shift-clicked, you store that Point somewhere. Use debug statements to verify that you have successfully done this. Why will this be important for calculating the distance between two points?
+
+
+(DO THIS INDIVIDUALLY) Task 2: Get started on PE 10--finishing the plot project! (DO THIS INDIVIDUALLY)
+------------------------------------------------------------------------------------------------------
+
+Take the code that you have so far and finish up the project, as described in PE 10. Do not work with a partner.
+
+
+
+
+
+
+
