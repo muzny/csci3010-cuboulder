@@ -20,8 +20,8 @@ Programming Exercises (PEs) and Homeworks are marked on the day that they are du
 9 (3/11) | [__PE 8__](programming_exercises/pe8.md)  GUIs, Qt (plot project day 1) | | [__PE 9__](programming_exercises/pe9.md) GUIs, Qt (plot project day 2) |
 10 (3/18) | GUIs, Qt (plot project day 3), HW 4 workshop | |   plot project (final day), HW 4 workshop           __[HW 4](homework/hw4_life) / [Individual Project Checkpoint](homework/individual_projects)__ (HW 4 is due Friday)
 11 (3/25) | SPRING BREAK | | 
-12 (4/1) |  Final projects, designing workshop |  |  [__PE 10__](programming_exercises/pe10.md) templating and generalizing 
+12 (4/1) |  Final projects, designing workshop |  |  [__PE 10__](programming_exercises/pe10.md) templating and generalizing / [Checkpoint 0](homework/hw5_gamenight) (Checkpoint 0 due Friday)
 13 (4/8) | __PE 11__ templating and generalizing |  | __PE 12__ Technical Interviews (part 2)  
-14 (4/15) | projects workshop | __Final/Individual Project Checkpoint__ | TBD
+14 (4/15) | projects workshop | __[Final](homework/hw5_gamenight)/Individual Project Checkpoint__ | TBD
 15 (4/22) | Cryptography | | __PE 13__ Security
-16 (4/29) | Project presentations (Individual projects) | __Final/Individual project due__ | Project presentations
+16 (4/29) | Project presentations (Individual projects) | __[Final](homework/hw5_gamenight)/Individual project due__ | Project presentations
