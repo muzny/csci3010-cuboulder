@@ -33,7 +33,7 @@ std::vector<T> AddToValues2(std::vector<T> values, T val) {
 // 12) to be given in class
 struct Blob {
     int x;
-}
+};
 
 int main() {
     // 7) call AddToValues2, passing in an int vector and another int.
