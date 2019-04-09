@@ -6,10 +6,34 @@
 //
 //
 
+// std::vector<int>
+
+template <typename T>
+void Print(T value) {
+    std::cout << value << std::endl;
+}
+
+template <typename T>
+void PrintVector(std::vector<T> values) {
+    for (T value : values) {
+       std::cout << value << std::endl;
+    }
+}
 
 // 6) implement a templated version of AddToValues, "AddToValues2".
 
+template <typename T>
+std::vector<T> AddToValues2(std::vector<T> values, T val) {
+    for (int i = 0; i < values.size(); i++) {
+       values[i] += val;
+    }
+    return values;
+}
+
 // 12) to be given in class
+struct Blob {
+    int x;
+}
 
 int main() {
     // 7) call AddToValues2, passing in an int vector and another int.
@@ -34,7 +58,14 @@ int main() {
     // not yet work. for each function call that doesn't work, comment about what type of 
     // error is produced.
 
+    std::vector<double> ds = {3.4, 5.1};
+    ds = AddToValues2<double>(ds, 10);
 
+    std::vector<std::string> s = {"cat", "dog"};
+    s = AddToValues2(s, std::string("z"));
 
     // 13) to be given in class
+    // a) call AddToValues2 wi/ vector of your struct and one struct to add to the elements
+    // b) if there is an error, tell me what it is
+    // c) if there is an error, try to fix it
 }
