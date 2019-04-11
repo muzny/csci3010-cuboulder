@@ -1,0 +1,41 @@
+
+1) implement a solution to finding the nth fibonacci # (1, 1, 2, 3, 5, 8, 13, 21, 34, ...)
+
+
+
+Follow-ups:
+1b) implement the other (iterative or recursive solution)
+
+
+1d) compare the benefits of the iterative and recursive solutions?
+
+
+1c) speed up one of your solutions, assuming that you are being asked to calculate multiple different numbers in the fibonacci 
+sequence over the course of your program running.
+
+
+
+
+
+
+
+
+
+
+
+2) Given a 2D array that represents a board with walls and empty spaces, find a path from the upper left corner to the lower right corner, assuming that you can only move right or down.
+
+
+Follow-ups:
+2b) What are the best & worst-case configurations for the board in terms of runtime for your algorithm?
+
+
+2c) What are the best & worst case runtimes of your algorithm?
+
+
+2d) Modify your algorithm so that it finds ALL valid paths from the upper left to the lower right.
+
+
+
+
+
