@@ -1,8 +1,5 @@
-17. inheritance
+#include <iostream>
 
-Given the following class:
-
-```
 class Creature {
 public:
     Creature(int power) : pow_(power) {}
@@ -19,20 +16,12 @@ public:
 
     int get_power() {return 7;};
 };
-```
 
-What will happen when the following code is run?
+int main() {
+    Cow c(10);
+    std::cout << c.get_power() << std::endl;
 
-```
-Cow c(10);
-std::cout << c.get_power() << std::endl;
+    Creature * c2 = new Cow(10);
+    std::cout << c2->get_power() << std::endl;
 
-Creature *c2 = new Cow(10);
-std::cout << c->get_power() << std::endl;
-```
-
-Answer:
-```
-7
-7
-```
+}
