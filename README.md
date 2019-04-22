@@ -23,5 +23,5 @@ Programming Exercises (PEs) and Homeworks are marked on the day that they are du
 12 (4/1) |  Final projects, designing workshop |  |  [__PE 10__](programming_exercises/pe10.md) templating and generalizing / [Checkpoint 0](homework/hw5_gamenight) (Checkpoint 0 due Friday)
 13 (4/8) | templating and generalizing |  | [__PE 11__](programming_exercises/pe11.md) Technical Interviews (part 2)  
 14 (4/15) | projects workshop | __[Final](homework/hw5_gamenight)/Individual Project Checkpoint__ | Final Review
-15 (4/22) | [__PE 12__](programming_exercises/pe12.md) Cryptography | | __PE 13__ Security
+15 (4/22) | [__PE 12__](programming_exercises/pe12.md) Cryptography | | [__PE 13__](programming_exercises/pe13.md) Security
 16 (4/29) | Project presentations (Individual projects) | __[Final](homework/hw5_gamenight)/Individual project due__ | Project presentations
