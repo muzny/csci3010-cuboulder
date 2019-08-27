@@ -13,6 +13,12 @@ In class exercises and programming exercise materials will be posted here.
 
 Materials will be turned in on Canvas.
 
+Quick Links
+-------------
+Week of August 26th
+- [PE 1](programming_exercises/pe1.md), due Tuesday, September 3rd at 12pm (noon)
+- [PE 2](programming_exercises/pe2.md), due Friday, September 6th at 6pm
+
 Recommended workflow:
 ---------------
 1. Clone this repository (`git clone https://github.com/muzny/csci3010-cuboulder.git`)
