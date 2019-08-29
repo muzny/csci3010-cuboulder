@@ -17,7 +17,7 @@ Your main function should create at least three points, calculate the distance b
 
 Your main function should then translate one of the `Point`s that you've created by a positive amount, then report the new coordinates and calculated distances to the user. It should then translate the same `Point` by a negative amount, then report the new coordinates and calculated distances to the user.
 
-For your `Makefile`, refer to the posted resources on [Makefiles](../resources.md) and the [example Makefile](../examples/Makefile). Your Makefile should include (at minimum) a target for `make all` and a target for `make clean`.
+For your `Makefile`, refer to the posted resources on [Makefiles](../resources.md#compiling-and-makefiles) and the [example Makefile](../examples/Makefile). Your Makefile should include (at minimum) a target for `make all` and a target for `make clean`.
 
 Refer to the style [guidelines](../concise_style_guide_cpp.md). To receive full credit for this assignment, your code must be commented and must compile on the CS VM or [Jupyter Lab](https://coding.csel.io).
 
