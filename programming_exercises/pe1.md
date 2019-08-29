@@ -5,7 +5,7 @@ For this exercise, you should turn in four files on canvas:
 
 `Point.cc` or `Point.cpp` (clarification 8/29: should contain the implementations of your functions, should include function comments)
 
-`Point.h` (clarification 8/29: should contain the definition of your class, don't forget a header guard!) 
+`Point.h` (clarification 8/29: should contain the definition of your class, don't forget [a header guard](../examples/structs_objs_declarations.md#objectsclasses)!) 
 
 `main.cc` or `main.cpp` (should include file comment)
 
