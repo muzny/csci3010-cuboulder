@@ -10,7 +10,7 @@ struct Name {
     type field2;
 };
 
-//instantiate (option 2)
+//instantiate (option 1)
 Name var;
 var.field1 = value;
 var.field2 = value;
@@ -44,7 +44,7 @@ class Name {
         type get_field() { return field_; }  // getter declared in line
 
     private:
-        type field_; //private fields should end in an underscore
+        type field_; //private fields/attributes should end in an underscore
 };
 
 #endif  // end _NAME_H_ header guard
@@ -66,7 +66,7 @@ Name::Name(type arg1, type arg2) {
 }
 
 void Name::MethodDeclaration() {
-    // if you need to access a field, inside an object, use:
+    // if you need to access a field inside an object, use:
     // field_
     // this->field_
     ...
