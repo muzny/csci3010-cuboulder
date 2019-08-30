@@ -9,5 +9,5 @@ all: scope
 clean:
 	rm scope
 
-scope:
+scope: scope.cpp
 	$(CXX) $(CXXFLAGS) scope.cpp -o scope
