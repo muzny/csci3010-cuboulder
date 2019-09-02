@@ -15,9 +15,11 @@ Materials will be turned in on Canvas.
 
 Quick Links
 -------------
-Week of August 26th
+Week of September 2nd:  
 - [PE 1](programming_exercises/pe1.md), due Tuesday, September 3rd at 12pm (noon)
 - [PE 2](programming_exercises/pe2.md), due Friday, September 6th at 6pm
+- [PE 3](programming_exercises/pe3.md), due Tuesday, September 10th at 12pm (noon)
+- [PE 4](programming_exercises/pe4.md), due Friday, September 13th at 6pm
 
 Recommended workflow:
 ---------------
