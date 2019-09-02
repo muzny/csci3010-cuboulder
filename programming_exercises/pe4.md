@@ -1,4 +1,4 @@
-PE 4 (git prompt)
+PE 4 (Version Control & PS 1)
 ==============
 
 Part 1:  
