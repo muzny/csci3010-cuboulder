@@ -55,10 +55,5 @@ int main() {
 
     // 10) (Given in lecture)
 
-
-    // 11)
-
-
-    // 12)
    
 }
