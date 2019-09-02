@@ -5,8 +5,9 @@ Be sure to include your name in all files that you turn in!
 
 Feel free to use the `man` pages and google as references for part 2 in particular!
 
-1. Complete [`pe3_references.cpp`](pe3_references.cpp).
-2. Answer the following questions in a file titled `pe3_bash.txt`.
+1. Complete the PE 3 quiz on canvas (github username).
+2. Complete [`pe3_references.cpp`](pe3_references.cpp).
+3. Answer the following questions in a file titled `pe3_bash.txt`.
     1. What is the bash command to show your terminal's working directory (current location)?
     2. How would you create an empty file called `empty.txt` from the command line?
     3. Using the `ls` command, how would you list all files beginning with `empty` in your current directory?

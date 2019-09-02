@@ -4,7 +4,7 @@ PE 4 (git prompt)
 Part 1:  
 ------
 
-Answer the quiz questions regarding version control in the quiz on canvas.
+Answer the quiz questions regarding version control in the quiz on canvas (PE 4 quiz).
 
 Part 2:
 ------
