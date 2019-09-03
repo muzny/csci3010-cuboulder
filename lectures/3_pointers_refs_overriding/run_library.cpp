@@ -6,7 +6,7 @@
 //
 // Complete numbered coding tasks.
 // Answer the questions with "Answer: " in the comments in the comments.
-// Turn in run_library.cpp, Library.h, and Library.cpp on Canvas before the end of class.
+// Turn in run_library.cpp on Canvas before the end of class. (only this file!)
 
 int main() {
     // 1) Instantiate a couple Books. Set their fields equal to some values.
