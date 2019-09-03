@@ -13,6 +13,8 @@ For this exercise, you should turn in four files on canvas:
 
 Modify your `Point` class or use the one provided (will be posted 9/3, when PE 1 is due) to create a `Point` that can be n-dimensional. Your `Point`’s constructor should take either a vector or an array of integers as an argument. You should add a method that reports how many dimensions this `Point` object is. You should modify your getter and setter methods so that they work and make sense. Modify your `Translate` method so that it affects all coordinates of this `Point`.
 
+Clarification (9/3): "either" for the `Point`s constructor means that you only need 1 of these constructors, your choice.
+
 (Hint: make it so your getter method takes an int indicating which dimension the user is interested in the value of.)
 (Hint: you may find that using a `std::vector<int>` to store your coordinates will be easier than an `int[]`.)
 (Hint: read [copying vectors in c++](https://www.geeksforgeeks.org/ways-copy-vector-c/) for a sense of how to initialize your vector field in your constructor.)
