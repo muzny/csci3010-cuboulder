@@ -75,20 +75,6 @@ int main() {
     // Answer:
     // tests to see if the memory address is the same
 
-    Book * bp1 = &b1;
-    Book * bp2 = &b2;
-    if (bp1 == bp2) {
-        std::cout << "equal" << std::endl;
-    } else {
-        std::cout << "not equal" << std::endl;
-    }
-
-    // 9) Create two Book pointers to your Books from # 7.
-    // use the == operator to test if they are equal. What happens?
-    // if it succeeds, are these equal?
-    //
-    // Answer:
-    // Makes a compiler error!
     Book & br1 = b1;
     Book & br2 = b2;
 //    if (br1 == br2) {
@@ -96,6 +82,21 @@ int main() {
 //    } else {
 //        std::cout << "not equal" << std::endl;
 //    }
+
+
+    // 9) Create two Book pointers to your Books from # 7.
+    // use the == operator to test if they are equal. What happens?
+    // if it succeeds, are these equal?
+    //
+    // Answer:
+    // Makes a compiler error!
+    Book * bp1 = &b1;
+    Book * bp2 = &b2;
+    if (bp1 == bp2) {
+        std::cout << "equal" << std::endl;
+    } else {
+        std::cout << "not equal" << std::endl;
+    }
 
     
     // 10) overriding << operator for the library
