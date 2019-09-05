@@ -80,7 +80,7 @@ int Name::OtherMethodDeclaration(type arg1) {
 
 
 // Insantiations
-Name n();  // not a pointer
+Name n;  // not a pointer
 Name n2(arg1, arg2);  // using the 2 arg constructor
 n.MethodDeclaration();  // use "." if the object variable isn't a pointer
 
