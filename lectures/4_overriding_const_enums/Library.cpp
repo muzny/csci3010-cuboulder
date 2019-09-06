@@ -4,9 +4,14 @@
 
 #include "Library.h"
 
-// implement bool Book::operator==(const Book & b)
+bool Book::operator==(const Book & b) {
+    return title == b.title && author == b.author;
+}
 
-// implement std::ostream & operator<<(std::ostream & os, const Book & b)
+std::ostream & operator<<(std::ostream & os, const Book & b) {
+    os << b.title << " by " << b.author;
+    return os;
+}
 
 /**
 	Zero argument constructor initializes a library with a shelf but no books.
@@ -20,7 +25,12 @@ void Library::Donate(Book b) {
 	shelf_.push_back(b);
 }
 
-// implement std::ostream & operator<<(std::ostream & os, const Library & l)
+std::ostream & operator<<(std::ostream & os, const Library & l) {
+	for (Book b : l.shelf_) {
+		os << b << std::endl;
+	}
+    return os;
+}
 
 void Library::PrintBooks() {
 	for (Book b : shelf_) {

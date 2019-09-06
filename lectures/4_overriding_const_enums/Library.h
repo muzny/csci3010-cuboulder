@@ -5,8 +5,13 @@ struct Book {
     std::string title;
     std::string author;
 
-    // Implement bool operator==(const Book &b);
-    // Implement friend std::ostream & operator<<(std::ostream & os, const Book & b);
+    bool operator==(const Book &b);
+
+    // this is the way to declare operator== as a friend
+    // if you do this, the implementation will not have Book:: in the
+    // function definition
+    //friend bool operator==(const Book &b1, const Book &b2);
+    friend std::ostream & operator<<(std::ostream & os, const Book & b);
 };
 
 
@@ -18,7 +23,7 @@ public:
 
     void PrintBooks();
 
-    // implement friend std::ostream & operator<<(std::ostream & os, const Library & l);
+    friend std::ostream & operator<<(std::ostream & os, const Library & l);
 
 private:
     // arrays require size to be known at compile time.

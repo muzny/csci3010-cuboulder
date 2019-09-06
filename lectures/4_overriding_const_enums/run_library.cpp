@@ -48,7 +48,7 @@ int main() {
     std::cout << "b1 in main: " << std::endl;
     std::cout << b1.title << " by " << b1.author << std::endl;
     std::cout << "Books in the library" << std::endl;
-    l->PrintBooks();
+    std::cout << *(l);
 
 
     b1.title = "Harry Potter and the Prisoner of Azkaban";
@@ -62,11 +62,12 @@ int main() {
     //
     // Answer:
     // Makes a compiler error!
-//    if (b1 == b2) {
-//        std::cout << "equal" << std::endl;
-//    } else {
-//        std::cout << "not equal" << std::endl;
-//    }
+    // b1.operator==(b2)
+    if (b1 == b2) {
+        std::cout << "equal" << std::endl;
+    } else {
+        std::cout << "not equal" << std::endl;
+    }
 
     // 8) Create two Book references to your Books from # 7.
     // use the == operator to test if they are equal. What happens?
@@ -77,11 +78,11 @@ int main() {
 
     Book & br1 = b1;
     Book & br2 = b2;
-//    if (br1 == br2) {
-//        std::cout << "equal" << std::endl;
-//    } else {
-//        std::cout << "not equal" << std::endl;
-//    }
+    if (br1 == br2) {
+        std::cout << "equal" << std::endl;
+    } else {
+        std::cout << "not equal" << std::endl;
+    }
 
 
     // 9) Create two Book pointers to your Books from # 7.
@@ -100,4 +101,5 @@ int main() {
 
     
     // 10) overriding << operator for the library
+    std::cout << b1;
 }

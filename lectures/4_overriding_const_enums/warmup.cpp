@@ -26,7 +26,7 @@ int main() {
     std::cout << *(your_num2) << std::endl;
 
     int my_num3 = 11;
-    int * your_num3 = nullptr;
+    int * your_num3 = NULL;
     MysteryFunction(my_num3, your_num3);
     std::cout << my_num3 << std::endl;
     std::cout << *(your_num3) << std::endl;
