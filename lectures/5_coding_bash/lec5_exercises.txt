@@ -43,11 +43,11 @@ done;
 
 14. List all files in your directory ending in .silly. Use a "*" wildcard with `ls`.
 
-15. Close this file (Really! close your lec5_exercises.txt file!), then move it into your lec5_directory using the `mv` command, then re-open this file.
+15. Close this file (Really! close your lec5_exercises.txt file!), then move it into your lec5_directory using the `mv` command, then re-open this file. (the command that you list here should only be the `mv` command that you used).
 
 16. Change directories to the parent directory of lec5_directory.
 
-17. What command will you use to zip up your lec5_directory and all files and subdirectories to produce lec5.zip? (Answer, then do this and turn your zip file in on moodle). You can use `unzip -l lec5.zip` to check the contents of your zip file. If you are working on JupyterLab, use the "jar" command to create this zip.
+17. What command will you use to zip up your lec5_directory and all files and subdirectories to produce lec5.zip? You can use `unzip -l lec5.zip` to check the contents of your zip file. If you are working on JupyterLab, use the "jar" command to create this zip.
 
 -- If you finish early --
 1. List all files in your thisissilly directory between 10.silly and 19.silly (inclusive). Use `ls` with a "?" wildcard (matches 1 single character).
