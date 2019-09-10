@@ -8,11 +8,19 @@ Answer the quiz questions regarding version control in the quiz on canvas (PE 4 
 
 Part 2:
 ------
-Using the materials from lecture 5 (Tuesday/Wednesday, September 10/11), edit your `.bashrc` so that your PS1 (command line prompt) provides the following information on your command line about your git repos (if your working directory is a git repo):
+Using the materials from [lecture 5](../lectures/5_coding_bash/bashrc_starter) (Tuesday/Wednesday, September 10/11), edit your `.bashrc` so that your PS1 (command line prompt) provides the following information on your command line about your git repos (if your working directory is a git repo):
 - clean vs. dirty
+   - A clean repository is one where everything is up to date. A dirty repository is a repository that is not clean. There are many different ways to be in a "dirty" state (adding a new file, editing a tracked file, etc), but for this exercise you don't need to distinguish between them.
+   - Clean will give you the message: 
+    ```
+    On branch master
+    Your branch is up to date with 'origin/master'.
+
+    nothing to commit, working tree clean
+    ```
 - what branch you are on
 
-Your prompt must use at least 3 different colors. To complete this exercise, turn in your .bashrc file and a screen shot showing your prompt indicating both different states above when in a git repo. Your prompt should not break when not in a git repo.
+Your prompt must use at least 3 different colors. To complete this exercise, turn in your .bashrc file and a screen shot showing your prompt indicating both different states above when in a git repo. Your prompt should not break when not in a git repo. Make sure to use the `source .bashrc` command to run your file whenever you edit it to see the changes to your PS1!
 
 For those of you who currently use `zsh` or any other non-bash unix shell--[read about how to change your shell](http://www.peachpit.com/articles/article.aspx?p=659655&seqNum=3) and implement your own PS1 in bash.
 
