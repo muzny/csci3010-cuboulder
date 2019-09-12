@@ -26,8 +26,8 @@ Major Deadlines
 - HW 2, due Friday, October 4th at 6pm
 - HW 3, due Friday, October 18th at 6pm
 - HW 4, due Friday, November 8th at 6pm
-- Final Project/HW 5 checkpoint 1, due Friday, November 22nd at 6pm
-- Final Project, due TBA, week of December 9th (TBA after presentations are scheduled)
+- Final Project ("HW 5") checkpoint, due Friday, November 22nd at 6pm
+- Final Project ("HW 5"), due TBA, week of December 9th (TBA after presentations are scheduled)
 
 Recommended workflow:
 ---------------
