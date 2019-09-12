@@ -4,7 +4,7 @@ PE 4 (Version Control & PS 1)
 Part 1:  
 ------
 
-Answer the quiz questions regarding version control in the quiz on canvas (PE 4 quiz).
+Answer the quiz questions regarding version control in the quiz on canvas ([PE 4 quiz](https://canvas.colorado.edu/courses/51530/assignments/548512?module_item_id=1532730)).
 
 Part 2:
 ------
