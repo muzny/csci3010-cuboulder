@@ -15,10 +15,19 @@ Materials will be turned in on Canvas.
 
 Quick Links
 -------------
-Week of September 2nd:  
+Week of September 9th:  
 - [PE 4](programming_exercises/pe4.md), due Friday, September 13th at 6pm
 - [HW 1](homework/hw1_mazegame), due Friday, September 20th at 6pm
 - PE 5 (coming soon), due Tuesday, September __24th__ at 12pm (noon)
+
+Major Deadlines
+-------------
+- HW 1, due Friday, September 20th at 6pm
+- HW 2, due Friday, October 4th at 6pm
+- HW 3, due Friday, October 18th at 6pm
+- HW 4, due Friday, November 8th at 6pm
+- Final Project/HW 5 checkpoint 1, due Friday, November 22nd at 6pm
+- Final Project, due TBA, week of December 9th (TBA after presentations are scheduled)
 
 Recommended workflow:
 ---------------
