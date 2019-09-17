@@ -29,5 +29,5 @@ Finally
 -------
 Review the PR assigned to your group on github, making sure to address all points in the [code review checklist](code_review_checklist.md).
     1. Everyone should pull the branch that you've been assigned to, compile it, and test it. `git fetch`, then `git checkout [branchname]`
-    2. Take a screen shot of your terminal after you have run `git status` and `make` on the branch that you are testing. Turn this screenshot in on canvas.
+    2. Run `git status` and `make` on the branch that you are testing.
     3. Everyone should make at least 1 comment on the pull request. If you think that no changes need to be made, birefly describe why.
