@@ -24,7 +24,7 @@ Your prompt must use at least 3 different colors. To complete this exercise, tur
 
 For those of you who currently use `zsh` or any other non-bash unix shell--[read about how to change your shell](http://www.peachpit.com/articles/article.aspx?p=659655&seqNum=3) and implement your own PS1 in bash.
 
-Extras! (for fun AND functionality)
+Extras! (for fun AND functionality (clarification: these are not required!))
 - Add an indication for whether or not your branch is ahead of remote. If you are already experienced with git, doing this is recommended!
 - Customize [the other information displayed in your prompt](https://ss64.com/bash/syntax-prompt.html)
 

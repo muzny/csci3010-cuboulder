@@ -19,6 +19,8 @@ Week of September 9th:
 - [PE 4](programming_exercises/pe4.md), due Friday, September 13th at 6pm
 - [HW 1](homework/hw1_mazegame), due Friday, September 20th at 6pm
 - PE 5 (coming soon), due Tuesday, September __24th__ at 12pm (noon)
+- HW 2, due Friday, October 4th at 6pm
+- [Individual Project Proposal](homework/individual_projects/), due Friday, October 4th at 6pm
 
 Major Deadlines
 -------------
