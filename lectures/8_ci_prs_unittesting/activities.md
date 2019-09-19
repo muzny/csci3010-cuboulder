@@ -1,5 +1,6 @@
 Activities to be completed before lecture 9 (Tues/Weds Sept 24/25)
 =================
+Since this is a self-directed lecture/in-class activities, we will be giving you +2 Extra credit points in this category for completing it before lecture on Tues/Weds. Happy coding!
 
 Subject 1: Pull Requests
 -----------------
@@ -35,11 +36,13 @@ Take a look at the `Makefile` in the `utility_functions` folder of your section 
 
 Your Tasks (due before lecture 9 class)
 ----------
+Feel free to work with a partner! (this is encouraged) If you work with a partner, __both__ partners should submit the quiz on canvas.
+
 1. You will be filling out the quiz posted on canvas (lecture 8 quiz) concurrently with these tasks. 
 2. From the lecture 7 activities, you should have completed through step 2 for both Person 1 and Person 2. If you have not done that, go do that now as Person 1. Fill in question 1 in the lecture quiz.
     1. If you got to step 5 (received a function to implmement in class), submit a pull request with those changes
     2. If you did not receive a function to implement in class, delete your branch locally and remotely ([stack overflow on deleting branches](https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely)).
-2. Create a new branch where you will implement the function assigned to you [in this spreadsheet](https://docs.google.com/spreadsheets/d/1k1ZU4jLPY6iXOLUAed49HvafEWegVw6XY55woY0O1co/edit?usp=sharing). If you are in the t/th section, work in the `001/utility_functions` directory. If you are in the w/f section, work in the `002/utility_functions` directory.
+2. Create a new branch where you will implement a function described [in this spreadsheet](https://docs.google.com/spreadsheets/d/1k1ZU4jLPY6iXOLUAed49HvafEWegVw6XY55woY0O1co/edit?usp=sharing). If you are in the t/th section, work in the `001/utility_functions` directory. If you are in the w/f section, work in the `002/utility_functions` directory. Write your name (and the name of your partner) in the appropriate columns of the spreadsheet. Only one partnership should implement each function in each lecture. Not all functions will be implemented.
 3. Create a PR once you have implemented both your assigned function and unit tests for that function (at minimum you should have one `TEST_CASE` and two `SECTION`s).
     1. Important! Read the [code review checklist](../7_git_branches_prs) in the lecture 7 folder to get your PR in tip-top shape!
 4. PE 5 will involve writing unit tests using Catch2 so be sure to ask any questions that you may have!
