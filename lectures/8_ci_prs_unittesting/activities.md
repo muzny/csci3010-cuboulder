@@ -36,7 +36,7 @@ Take a look at the `Makefile` in the `utility_functions` folder of your section 
 
 Your Tasks (due before lecture 9 class)
 ----------
-Feel free to work with a partner! (this is encouraged) If you work with a partner, __both__ partners should submit the quiz on canvas.
+Feel free to work with a partner! (this is encouraged) If you work with a partner, __both__ partners should submit the quiz on canvas. If you work with a partner, both of you should be in the same section of 3010.
 
 1. You will be filling out the quiz posted on canvas (lecture 8 quiz) concurrently with these tasks. 
 2. From the lecture 7 activities, you should have completed through step 2 for both Person 1 and Person 2. If you have not done that, go do that now as Person 1. Fill in question 1 in the lecture quiz.
