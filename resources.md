@@ -48,7 +48,7 @@ Continuous Integration
 -----------
 [__Travis/CI core concepts__](https://docs.travis-ci.com/user/for-beginners/)
 
-[__example .travis.yml file__](https://github.com/muzny/csci3010-spring2019-collab/blob/master/.travis.yml)
+For an example `.travis.yml` file, see the course collaboration repository  
 
 [__Travis embedding status icons__](https://docs.travis-ci.com/user/status-images/)
 
