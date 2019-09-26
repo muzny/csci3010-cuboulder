@@ -15,11 +15,12 @@ Materials will be turned in on Canvas.
 
 Quick Links
 -------------
-Week of September 16th:  
-- [HW 1](homework/hw1_mazegame), due Friday, September 20th at 6pm
+Week of September 23rd:  
 - [PE 5](programming_exercises/pe5.md), due Friday, September 27th at 6pm
 - HW 2, due Friday, October 4th at 6pm
 - [Individual Project Proposal](homework/individual_projects/), due Friday, October 4th at 6pm
+
+[Course collaboration repository](https://github.com/muzny/csci3010-fall2019-collab)
 
 Major Deadlines
 -------------
