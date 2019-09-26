@@ -17,8 +17,9 @@ Quick Links
 -------------
 Week of September 23rd:  
 - [PE 5](programming_exercises/pe5.md), due Friday, September 27th at 6pm
-- HW 2, due Friday, October 4th at 6pm
-- [Individual Project Proposal](homework/individual_projects/), due Friday, October 4th at 6pm
+- [PE 6](programming_exercises/pe6.md), due Tuesday, October 1st at 12pm (noon)
+- HW 2, due <s>Friday, October 4th at 6pm</s> __now__: Sunday, October 6th at 11:59pm.
+- [Individual Project Proposal](homework/individual_projects/), due <s>Friday, October 4th at 6pm</s> __now__: Sunday, October 6th at 11:59pm.
 
 [Course collaboration repository](https://github.com/muzny/csci3010-fall2019-collab)
 
