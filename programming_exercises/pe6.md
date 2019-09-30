@@ -10,7 +10,7 @@ Part 2: Friday, October 4th @ 6pm
 Part 1 Refactoring (15 points)
 ------
 
-In this exercise you will take code that could be significantly improved and [refactor it according to the guidelines from lecture 5](../lectures/5_coding_bash).
+In this exercise you will take code that could be significantly improved and [refactor it according to the guidelines from lecture 5](../lectures/5_coding_bash/coding_practices/codingpractices.md).
 
 Refactor the [provided code](pe6_code/) so that it follows the previously discussed guidelines. If you have never worked with maps before, these are standard data structures that you will find in any language. If you have more experience with python, they are called "dictionaries" in that language. They associate a unique key with a value. Here are [two](https://en.cppreference.com/w/cpp/container/map) [references](https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/) for you to get started.
 - __To turn in__:
