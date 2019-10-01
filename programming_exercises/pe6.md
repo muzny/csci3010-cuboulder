@@ -1,9 +1,23 @@
 PE 6 (Code reviews + refactoring)
 ==============
 
-You may complete this PE with a partner or by yourself.
+You may complete this PE with a partner or by yourself.  
 
-Part 1 (5 points)
+Due dates are:  
+Part 1: Tuesday, October 1st @ 12 noon  
+Part 2: Friday, October 4th @ 6pm
+
+Part 1 Refactoring (15 points)
+------
+
+In this exercise you will take code that could be significantly improved and [refactor it according to the guidelines from lecture 5](../lectures/5_coding_bash/coding_practices/codingpractices.md).
+
+Refactor the [provided code](pe6_code/) so that it follows the previously discussed guidelines. If you have never worked with maps before, these are standard data structures that you will find in any language. If you have more experience with python, they are called "dictionaries" in that language. They associate a unique key with a value. Here are [two](https://en.cppreference.com/w/cpp/container/map) [references](https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/) for you to get started.
+- __To turn in__:
+    - `pe6.zip`, containing: `Makefile`, `main.cpp`, `Society.h`, and `Society.cpp`
+
+
+Part 2 Code reviews (5 points)
 ------
 __warning__: this part may take some time back + forth so make sure to start early.  
 
@@ -25,11 +39,4 @@ __to turn in__: (if you work with a partner, both partners should fill in the PE
 1. A link to your PR (where you implemented your function)
 2. A link to the PR that you reviewed
 
-Part 2 (15 points)
-------
 
-In this exercise you will take code that could be significantly improved and [refactor it according to the guidelines from lecture 5](../lectures/5_coding_bash).
-
-Refactor the [provided code](pe6_code/) so that it follows the previously discussed guidelines. If you have never worked with maps before, these are standard data structures that you will find in any language. If you have more experience with python, they are called "dictionaries" in that language. They associate a unique key with a value. Here are [two](https://en.cppreference.com/w/cpp/container/map) [references](https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/) for you to get started.
-- __To turn in__:
-    - `pe6.zip`, containing: `Makefile`, `main.cpp`, `Society.h`, and `Society.cpp`
