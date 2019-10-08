@@ -17,9 +17,9 @@ Quick Links
 -------------
 Week of October 7th:
 - [HW 2](homework/hw2_counter.pdf), due <s>Friday, October 4th at 6pm</s> __now__: Sunday, October 6th at 11:59pm.
-- [Individual Project Proposal](homework/individual_projects/), due <s>Friday, October 4th at 6pm</s> __now__: Sunday, October 6th at 11:59pm. __Note__: Individual Project Proposals will not be accepted late.
 - [PE 7](programming_exercises/pe7.md), due Friday, October 11th at 6pm
-- HW 3, due Friday, October 18th at 6pm
+- __HW 3 extra credit pre-work deadline__, due Tuesday, October 15th at 12pm (noon)
+- [HW 3](homework/hw3_election/), due Friday, October 18th at 6pm
 
 [Course collaboration repository](https://github.com/muzny/csci3010-fall2019-collab)
 
