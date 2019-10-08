@@ -1,7 +1,7 @@
 PE 7 (diagramming an application)
 =========================
 
-You may work with a partner on this assignment. If you work with a partner, list the parts completed by each partner in your file comments for the `main.cpp` that you turn in. If you worked equally on the different parts, indicate that as well.
+This is an individual assignment.
 
 The Program
 ----------
