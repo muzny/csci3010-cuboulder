@@ -1,0 +1,263 @@
+What kind of election should we have (direct or representative, 0 to stop)? direct
+Do you want to register a candidate for party one (y or n)? y
+What is their name? Arlene
+Do you want to register a candidate for party one (y or n)? y
+What is their name? Bastian
+Do you want to register a candidate for party one (y or n)? y
+What is their name? Cee
+Do you want to register a candidate for party one (y or n)? n
+Do you want to register a candidate for party two (y or n)? n
+Do you want to register a candidate for party three (y or n)? n
+
+District 1:
+square miles: 8
+[Party: one] : 7	[Party: two] : 2	[Party: three] : 0	[Party: none] : 3
+
+District 2:
+square miles: 21
+[Party: one] : 1	[Party: two] : 6	[Party: three] : 9	[Party: none] : 4
+
+District 3:
+square miles: 6
+[Party: one] : 5	[Party: two] : 5	[Party: three] : 6	[Party: none] : 9
+
+-----------------
+1: Arlene [Party: one]
+2: Bastian [Party: one]
+3: Cee [Party: one]
+
+
+Which candidate is campaigning (id) (0 to stop) ? 1
+District 1:
+square miles: 8
+[Party: one] : 7	[Party: two] : 2	[Party: three] : 0	[Party: none] : 3
+
+District 2:
+square miles: 21
+[Party: one] : 1	[Party: two] : 6	[Party: three] : 9	[Party: none] : 4
+
+District 3:
+square miles: 6
+[Party: one] : 5	[Party: two] : 5	[Party: three] : 6	[Party: none] : 9
+
+
+Where is this candidate campaigning (id) (0 to stop) ? 1
+Arlene is campaigning in district 1
+Chances to convert: 1600.000000
+Chances to convert from another party: 160.000000
+Congrats, you have converted someone from none to one!
+Congrats, you have converted someone from two to one!
+District 1:
+square miles: 8
+[Party: one] : 9	[Party: two] : 1	[Party: three] : 0	[Party: none] : 2
+
+District 2:
+square miles: 21
+[Party: one] : 1	[Party: two] : 6	[Party: three] : 9	[Party: none] : 4
+
+District 3:
+square miles: 6
+[Party: one] : 5	[Party: two] : 5	[Party: three] : 6	[Party: none] : 9
+
+
+Where is this candidate campaigning (id) (0 to stop) ? 1
+Arlene is campaigning in district 1
+Chances to convert: 5000.000000
+Chances to convert from another party: 500.000000
+Congrats, you have converted someone from none to one!
+Congrats, you have converted someone from two to one!
+District 1:
+square miles: 8
+[Party: one] : 11	[Party: two] : 0	[Party: three] : 0	[Party: none] : 1
+
+District 2:
+square miles: 21
+[Party: one] : 1	[Party: two] : 6	[Party: three] : 9	[Party: none] : 4
+
+District 3:
+square miles: 6
+[Party: one] : 5	[Party: two] : 5	[Party: three] : 6	[Party: none] : 9
+
+
+Where is this candidate campaigning (id) (0 to stop) ? 1
+Arlene is campaigning in district 1
+Chances to convert: inf
+Chances to convert from another party: inf
+Congrats, you have converted someone from none to one!
+Sorry, no one in none to convert!
+District 1:
+square miles: 8
+[Party: one] : 12	[Party: two] : 0	[Party: three] : 0	[Party: none] : 0
+
+District 2:
+square miles: 21
+[Party: one] : 1	[Party: two] : 6	[Party: three] : 9	[Party: none] : 4
+
+District 3:
+square miles: 6
+[Party: one] : 5	[Party: two] : 5	[Party: three] : 6	[Party: none] : 9
+
+
+Where is this candidate campaigning (id) (0 to stop) ? 1
+Arlene is campaigning in district 1
+Chances to convert: inf
+Chances to convert from another party: inf
+Sorry, no one in none to convert!
+Sorry, no one in none to convert!
+District 1:
+square miles: 8
+[Party: one] : 12	[Party: two] : 0	[Party: three] : 0	[Party: none] : 0
+
+District 2:
+square miles: 21
+[Party: one] : 1	[Party: two] : 6	[Party: three] : 9	[Party: none] : 4
+
+District 3:
+square miles: 6
+[Party: one] : 5	[Party: two] : 5	[Party: three] : 6	[Party: none] : 9
+
+
+Where is this candidate campaigning (id) (0 to stop) ? 0
+-----------------
+1: Arlene [Party: one]
+2: Bastian [Party: one]
+3: Cee [Party: one]
+
+
+Which candidate is campaigning (id) (0 to stop) ? 0
+District: 3
+Arlene: 6
+Bastian: 10
+Cee: 9
+District: 1
+Arlene: 4
+Bastian: 5
+Cee: 3
+District: 2
+Arlene: 6
+Bastian: 9
+Cee: 5
+
+Full results:
+Arlene: 16
+Bastian: 24
+Cee: 17
+
+Congratulations, Bastian, you've won!
+What kind of election should we have (direct or representative, 0 to stop)? direct
+Do you want to register a candidate for party one (y or n)? n
+Do you want to register a candidate for party two (y or n)? y
+What is their name? Spinach
+Do you want to register a candidate for party two (y or n)? n
+Do you want to register a candidate for party three (y or n)? y
+What is their name? Cheese
+Do you want to register a candidate for party three (y or n)? n
+
+District 1:
+square miles: 8
+[Party: one] : 12	[Party: two] : 0	[Party: three] : 0	[Party: none] : 0
+
+District 2:
+square miles: 21
+[Party: one] : 1	[Party: two] : 6	[Party: three] : 9	[Party: none] : 4
+
+District 3:
+square miles: 6
+[Party: one] : 5	[Party: two] : 5	[Party: three] : 6	[Party: none] : 9
+
+-----------------
+1: Spinach [Party: two]
+2: Cheese [Party: three]
+
+
+Which candidate is campaigning (id) (0 to stop) ? 1
+District 1:
+square miles: 8
+[Party: one] : 12	[Party: two] : 0	[Party: three] : 0	[Party: none] : 0
+
+District 2:
+square miles: 21
+[Party: one] : 1	[Party: two] : 6	[Party: three] : 9	[Party: none] : 4
+
+District 3:
+square miles: 6
+[Party: one] : 5	[Party: two] : 5	[Party: three] : 6	[Party: none] : 9
+
+
+Where is this candidate campaigning (id) (0 to stop) ? 1
+Spinach is campaigning in district 1
+Chances to convert: 4.166667
+Chances to convert from another party: 0.416667
+District 1:
+square miles: 8
+[Party: one] : 12	[Party: two] : 0	[Party: three] : 0	[Party: none] : 0
+
+District 2:
+square miles: 21
+[Party: one] : 1	[Party: two] : 6	[Party: three] : 9	[Party: none] : 4
+
+District 3:
+square miles: 6
+[Party: one] : 5	[Party: two] : 5	[Party: three] : 6	[Party: none] : 9
+
+
+Where is this candidate campaigning (id) (0 to stop) ? 2
+Spinach is campaigning in district 2
+Chances to convert: 93.333333
+Chances to convert from another party: 9.333333
+Congrats, you have converted someone from none to two!
+District 1:
+square miles: 8
+[Party: one] : 12	[Party: two] : 0	[Party: three] : 0	[Party: none] : 0
+
+District 2:
+square miles: 21
+[Party: one] : 1	[Party: two] : 7	[Party: three] : 9	[Party: none] : 3
+
+District 3:
+square miles: 6
+[Party: one] : 5	[Party: two] : 5	[Party: three] : 6	[Party: none] : 9
+
+
+Where is this candidate campaigning (id) (0 to stop) ? 3
+Spinach is campaigning in district 3
+Chances to convert: 218.181818
+Chances to convert from another party: 21.818182
+Congrats, you have converted someone from none to two!
+Congrats, you have converted someone from three to two!
+District 1:
+square miles: 8
+[Party: one] : 12	[Party: two] : 0	[Party: three] : 0	[Party: none] : 0
+
+District 2:
+square miles: 21
+[Party: one] : 1	[Party: two] : 7	[Party: three] : 9	[Party: none] : 3
+
+District 3:
+square miles: 6
+[Party: one] : 5	[Party: two] : 7	[Party: three] : 5	[Party: none] : 8
+
+
+Where is this candidate campaigning (id) (0 to stop) ? 0
+-----------------
+1: Spinach [Party: two]
+2: Cheese [Party: three]
+
+
+Which candidate is campaigning (id) (0 to stop) ? 0
+District: 3
+Spinach: 14
+Cheese: 11
+District: 1
+Spinach: 4
+Cheese: 8
+District: 2
+Spinach: 9
+Cheese: 11
+
+Full results:
+Spinach: 27
+Cheese: 30
+
+Congratulations, Cheese, you've won!
+What kind of election should we have (direct or representative, 0 to stop)? 0
