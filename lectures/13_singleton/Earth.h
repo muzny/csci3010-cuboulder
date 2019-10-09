@@ -24,6 +24,8 @@ public:
  	Earth();  // private constructor
 
     int population_;
+
+    static const int continents_ = 7;
   
 };  // class Earth
 
