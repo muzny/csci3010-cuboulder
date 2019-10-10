@@ -20,12 +20,13 @@ public:
 	Earth(Earth const&) = delete; // copy constructor
 	void operator=(Earth const&) = delete; // assignment operator
 
+    static const int continents_ = 7;
+
  private:
  	Earth();  // private constructor
 
     int population_;
 
-    static const int continents_ = 7;
   
 };  // class Earth
 

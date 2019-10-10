@@ -8,7 +8,6 @@ int main(int argc, char **argv){
     // 0) Implement your Earth's constructor in Earth.cpp
 
     // 1) Get an instance of your earth object
-    NameOfClass::NameOfMethod()
 
     Earth & e = Earth::GetInstance();
 
@@ -16,7 +15,6 @@ int main(int argc, char **argv){
 
     // 3a) Test to see if the two Earth instances from #1 and #2 are stored at the same
     // location in memory.
-    &e == &e2
 
     // 3b) Call IncreasePopulation from one of your Earth instances. Can you see this change
     // from your other Earth instance?
@@ -26,13 +24,13 @@ int main(int argc, char **argv){
 
 
     // the field that you are testing is not static
-    e.my_field_
 
     // fun experiment! how about a static public field? 
     // look at the lecture 12 code for an example of how to 
     // initialize a static field
-    Earth::my_static_field_
 
+
+    std::cout << Earth::continents_ << std::endl;
 
 
 
