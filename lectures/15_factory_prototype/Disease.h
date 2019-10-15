@@ -63,12 +63,12 @@ private:
 class DiseaseFactory {
 public:
 // 1) Implement a static method Disease * GetFlu() that takes no parameters and returns
-// a Disease pointer to a flu object. The flu is communicable, it is not hereditary,
+// a Disease pointer to a "flu" Disease object (NOT subclass). The flu object should be communicable, it is not hereditary,
 // is not bacteria, is a virus, and strikes the young and old more readily than the middle aged
-// Go ahead and make up answers for the other traits.
+// Go ahead and make up parameters for the other traits.
 
 // 2) Implement a static method Disease * GetCold() that takes no parameters and returns a
-// Disease pointer to a cold object. Colds are bacteria based. Use what you know and your
+// Disease pointer to a "cold" Disease object. Colds are bacteria based. Use what you know and your
 // imagination to fill in the other fields.
 
 // 3) Implement a static method that returns a pointer to a Disease object of your choice (can be a real disease,
@@ -76,7 +76,8 @@ public:
 };
 
 
-// 4) in main.cpp, get pointers to your diseases and Infect some Creature objects (how many of each is up to you)
+// 4) in main.cpp, get pointers to your diseases and use the Infect method on some Creature objects (how many of each is up to you)
 // (the rest of the work for this part will take place in main.cpp)
+
 
 #endif // _DISEASE_H_

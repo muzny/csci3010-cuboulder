@@ -31,7 +31,7 @@ private:
 
 // 2) Create 1 subclass of Creature. For this subclass,
 // make its cloning behavior slightly different.
-// For instance, some Cloned creatures might also inherit non-hereditary diseases.
+// For instance, make some Cloned creatures might also inherit non-hereditary diseases.
 // It's up to you!
 
 // 3) In your main.cpp, instantiate your subclass. (the rest of the work for this
