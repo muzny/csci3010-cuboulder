@@ -1,4 +1,10 @@
-Work in groups of 1 - 3.
+- Work in groups of 1 - 3.
+- Design patterns notes:
+  - [Singleton](../13_singleton)
+  - [Flyweight/Iterator](../14_flyweight_iterator)
+  - [Iterator/Factory](../15_factory)
+  - Prototype (in this directory)
+  - Also check out: [resources document](../../resources.md)
 
 1. Pick a language other than c++ that you have experience working with. (Note: Felix doesn't want to see *only* python examples, so if you are comfortable using a language other than python/c++, consider choosing that one).
 2. Pick a design pattern out of: Singleton, Flyweight, Iterator, Factory, and Prototype.
