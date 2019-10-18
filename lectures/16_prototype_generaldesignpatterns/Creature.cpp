@@ -14,6 +14,15 @@ std::ostream& operator<<(std::ostream &os, const Creature &c) {
 }
 
 
+Creature * Creature::Clone() {
+    Creature * c = new Creature(0);
+    for (Disease * d : get_diseases()) {
+        if (d->get_is_hereditary()) {
+            c->Infect(d);
+        }
+    }
+    return c;
+}
 
 void Creature::Spread(Creature * c2) {
     for (Disease * d : this->get_diseases()) {
@@ -29,3 +38,15 @@ void Creature::Spread(Creature * c2) {
     }
 }
 
+Creature * Subclass::Clone() {
+    // make it a new Subclass instance
+    // in this example, a cloned subclass starts
+    // at age 100
+    Creature * c = new Subclass(100);        
+    for (Disease * d : get_diseases()) {
+        if (d->get_is_hereditary()) {
+            c->Infect(d);
+        }
+    }
+    return c;
+}

@@ -24,6 +24,7 @@ public:
     // 1) Create a virtual Creature * Clone() method.
     // When a creature is cloned, the clone starts at age 0
     // Diseases that are hereditary should be inherited.
+    virtual Creature * Clone();
 
 private:
     int age_;
@@ -35,6 +36,23 @@ private:
 // make its cloning behavior slightly different.
 // For instance, some Cloned creatures might also inherit non-hereditary diseases.
 // It's up to you!
+
+// when you implement your subclass, make sure to call the Creature constructor in your subclass' constructor
+
+class Subclass : public Creature {
+public:
+    
+    // Note that we call the base class' constructor
+    // as the first thing in the initialization list.
+    // we do NOT make a new age_ or diseases_ field!
+    Subclass(int age): Creature(age) {
+    } 
+
+    // function definition of Clone() must exactly match the base class!
+    Creature * Clone();
+};
+
+
 
 // 3) In your main.cpp, instantiate your subclass. (the rest of the work for this
 // part of the exercise will happen in main.)

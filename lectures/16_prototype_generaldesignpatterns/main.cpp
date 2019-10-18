@@ -1,3 +1,4 @@
+#include <time.h>
 #include <iostream>
 #include <vector>
 
@@ -60,20 +61,15 @@ int main() {
     // Answer:
     // How did you test this?
 
-
-
-
-
-    // When you finish:
-    // -------------
-    // 4) Write a new function in this file void ScienceLab(Creature * original) (not associated with any classes)
-    // that takes an original creature and conducts experiments by cloning it and measuring the spread of disease.
-    // You have complete creative freedom here. Feel free to add methods to the Disease/Creature classes.
-    // (The only requirements are the function definition and that you must call Clone() within that function).
-    //
-    // Call your ScienceLab function as many times as is necessary for your experiments.
-
-
-    // Show your completed work to Felix (raise your hand)
+    Creature * clone_creature = original_creature.Clone();
+    std::cout << "cloned creature's diseases: " << std::endl;
+    std::cout << *(clone_creature) << std::endl;
+    
+    Creature * subcreature = new Subclass(3);
+    subcreature->Infect(cold);
+    subcreature->Infect(sickle_cell);
+    Creature * clone_subcreature = subcreature->Clone();
+    std::cout << "cloned subcreature's diseases: " << std::endl;
+    std::cout << *(clone_subcreature) << std::endl;
 }
 
