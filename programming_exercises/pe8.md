@@ -1,13 +1,16 @@
 PE 8 (Qt installation + tutorial)
 ==============
 
+(If anyone posts current pictures of their install options, I'm happy to add them to this description as well!)
+
 1. (5 points) Install [QtCreator](http://doc.qt.io/qt-5/gettingstarted.html). We'll be using Qt version 5.x. Warning: this software can take a significant amount of space on your machine. If you follow our installation guidelines, it won't be quite so big. You can uninstall it at the end of the semester, but we will be using it for the rest of the course.
 - Here is a [Qt for beginners wiki that you may find useful](https://wiki.qt.io/Qt_for_Beginners)
 - Please post any Qt Installation questions on piazza with screenshots so that your classmates, the CAs, the TAs, and I can help you out (or come to office hours).
 - You should download the open source version. When you get to the install screen select "Qt Creator" only the most recent version of Qt. (Not All! That would be _very_ _very_ large.)
-    - here is a further image of options that you can select to make the installation smaller: ![installation options mac](qt_smaller.png)
+    - here is a further image of options that you can select to make the installation smaller (Mac os specific): ![installation options mac](qt_smaller.png)
 - Note that if you are running QtCreator on certain linux distributions, the resolution settings are not ideal. If you find the settings to fix these, please post them on piazza.
 - Felix has the binaries downloaded and on a flash drive. Come to office hours if downloading them is taking you a very long time.  
+- Some students have had better luck installing from the [offline installers](https://www.qt.io/offline-installers)
 
 
 Windows
