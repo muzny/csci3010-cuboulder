@@ -15,11 +15,10 @@ Materials will be turned in on Canvas.
 
 Quick Links
 -------------
-Week of October 14th:
-- __HW 3 extra credit pre-work deadline__, due Tuesday, October 15th at 12pm (noon)
-- [HW 3](homework/hw3_election/), due Friday, October 18th at 6pm
+Week of October 21st:
 - [PE 8](programming_exercises/pe8.md), due Friday, October 25th at 6pm
 - [PE 9](programming_exercises/pe9.md), due Tuesday, October 29th at 12pm
+- [PE 10](programming_exercises/pe10.md), due Friday, November 1st at 6pm
 
 [Course collaboration repository](https://github.com/muzny/csci3010-fall2019-collab)
 
