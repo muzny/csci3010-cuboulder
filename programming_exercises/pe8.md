@@ -10,6 +10,7 @@ PE 8 (Qt installation + tutorial)
     - here is a further image of options that you can select to make the installation smaller (Mac os specific): ![installation options mac](qt_smaller.png)
 - Note that if you are running QtCreator on certain linux distributions, the resolution settings are not ideal. If you find the settings to fix these, please post them on piazza.
 - Felix has the binaries downloaded and on a flash drive. Come to office hours if downloading them is taking you a very long time.  
+- Some students have had better luck installing from the [offline installers](https://www.qt.io/offline-installers)
 
 
 Windows
