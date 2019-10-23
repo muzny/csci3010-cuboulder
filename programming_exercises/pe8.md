@@ -33,10 +33,11 @@ Part 2: Starting a project in Qt Creator (15 points)
 1. Click "New Project", then choose "Qt Widgets Application".
 2. Give this project a name.
 3. Choose the Desktop Qt for Kit selection (no need to choose any mobile kits as well).
-4. Click "Continue" under the Class Information tab, then click "Done" under the Project Management tab.
+4. Click "Continue" under the Class Information tab (make sure that you don't change the base class to something other than `QMainWindow`) , then click "Done" under the Project Management tab.
 5. Under the "Edit" choice (on the left-hand options tab), click your new project folder. Either right-click the folder, then choose "run" OR click the green play button on the bottom left of the screen.
     1. You should have a blank window titled "MainWindow" pop-up. To exit, press the "x" button in the upper right-hand corner of your running application.
 6. Edit `mainwindow.cpp` by adding `ui->statusBar->showMessage("YOUR MESSAGE HERE")` to the `MainWindow` constructor. Run the application and take a screenshot. Make sure to replace the string "YOUR MESSAGE HERE" with a message of your own!
+    1. This may be `ui->statusbar->showMessage("YOUR MESSAGE HERE")`. If you're getting an error, you can type `ui->` and look at the autocomplete options.
 7. Add a push button to your UI. Do this by clicking on the "Forms" folder, then "mainwindow.ui". This will open a WYSIWYG (What You See Is What You Get) editor for your GUI. You can search for elements in the text box in the upper left hand side of this editor.
 8. Right-click the push button from the step before, select "Go To Slot", then choose "clicked()" under "QAbstractButton". Modify the function that is provided so that each time you click your new button, the text in the status bar changes. The status bar should show the number of times that the button has been clicked. Hint: you may find adding a field to MainWindow to be useful for this. 
 
