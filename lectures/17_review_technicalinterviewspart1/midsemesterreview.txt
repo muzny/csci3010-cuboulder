@@ -49,7 +49,7 @@ Section 2: Good Coding Practices
 
 bool hasACat = true;
 
-If (hasACat == true) {
+if (hasACat == true) {
 // Do nothing.
 } else {
 returnItForADog();
@@ -77,6 +77,8 @@ Section 3: keywords/const/overloading
 1. Why would you use a const field? Why would you use a const method?
 
 2. Where do you instantiate a const field in a class?
+(as opposed to a static field and/or a "regular" field)
+
 
 3. Where and why would you use the “virtual” keyword? What is this concept called and why is it important?
 
@@ -138,3 +140,7 @@ e. Iterator
 
 
 2. In class, we went over how you will frequently interact with the design pattern Iterator but will rarely implement it yourselves. Why is this?
+
+
+
+
