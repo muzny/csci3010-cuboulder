@@ -20,7 +20,7 @@ Windows
 
 Mac OSx
 ------
-- you can install via the install link above, or [via homebrew](http://macappstore.org/qt-creator/)
+- you can install via the install link above, or <s>[via homebrew](http://macappstore.org/qt-creator/)</s> __Update:__ we no longer recommend install via homebrew since this doesn't also install the kits necessary.
 
 Linux
 -----
