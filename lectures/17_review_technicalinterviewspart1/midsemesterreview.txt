@@ -40,7 +40,7 @@ private:
 
 7. Create a Foo pointer, then call one of the Foo methods.
 
-8. Why would you make a field a pointer?
+8. Why would you make a field a pointer? (or a reference)
 
 Section 2: Good Coding Practices
 -----------
