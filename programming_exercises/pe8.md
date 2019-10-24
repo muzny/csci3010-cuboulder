@@ -7,6 +7,7 @@ PE 8 (Qt installation + tutorial)
 - Here is a [Qt for beginners wiki that you may find useful](https://wiki.qt.io/Qt_for_Beginners)
 - Please post any Qt Installation questions on piazza with screenshots so that your classmates, the CAs, the TAs, and I can help you out (or come to office hours).
 - You should download the open source version. When you get to the install screen select "Qt Creator" only the most recent version of Qt. (Not All! That would be _very_ _very_ large.)
+    - if you are on Windows, you'll want matching versions of MinGW under both the Qt 5.x arrow option and under the "Developer and Designer Tools"
     - here is a further image of options that you can select to make the installation smaller (Mac os specific): ![installation options mac](qt_smaller.png)
 - Note that if you are running QtCreator on certain linux distributions, the resolution settings are not ideal. If you find the settings to fix these, please post them on piazza.
 - Felix has the binaries downloaded and on a flash drive. Come to office hours if downloading them is taking you a very long time.  
