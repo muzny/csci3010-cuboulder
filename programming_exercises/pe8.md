@@ -41,6 +41,7 @@ Part 2: Starting a project in Qt Creator (15 points)
     1. This may be `ui->statusbar->showMessage("YOUR MESSAGE HERE")`. If you're getting an error, you can type `ui->` and look at the autocomplete options.
 7. Add a push button to your UI. Do this by clicking on the "Forms" folder, then "mainwindow.ui". This will open a WYSIWYG (What You See Is What You Get) editor for your GUI. You can search for elements in the text box in the upper left hand side of this editor.
 8. Right-click the push button from the step before, select "Go To Slot", then choose "clicked()" under "QAbstractButton". Modify the function that is provided so that each time you click your new button, the text in the status bar changes. The status bar should show the number of times that the button has been clicked. Hint: you may find adding a field to MainWindow to be useful for this. 
+    1. If your status bar isn't updating, but you think that it should add a call to `update();` at the end of `on_pushButton_clicked` method.
 
 __To turn in__:
 - 1 screenshot of your installed version of Qt Creator running your application from part 2
