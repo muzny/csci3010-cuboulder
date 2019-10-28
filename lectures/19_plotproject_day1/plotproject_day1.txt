@@ -1,0 +1,93 @@
+# Names:
+
+
+
+# You may work with 1 or 2 partners for this activity.
+# Note! This will be an activity that spans multiple days — it will be easiest if you and your partner(s) are able to work together for the duration of the activity.
+
+
+Task 1: Importing our project
+----------------------------------
+
+Move the provided files to whichever directory you prefer to have your qt projects live.
+
+Notice that this directory doesn't contain a *.pro.user file. That's because the .pro.user file that is user specific. It should not be included in repositories, etc.
+
+Open Qt Creator and choose "Open Project". When prompted, choose the first option (clang) for the build system. Your project should now open and you should be able to press the green "play" button to successfully build the project.
+
+
+
+Task 2: Qt GUI basics -- using the framework for the given qt plotting project
+----------------------------------
+
+1) What object does our PlotWindow inherit?
+
+
+2) What objects are created in the main.cpp file? What two methods are called? What do these two methods do? Take a look at the documentation for QWidget and QApplication: http://doc.qt.io/qt-5/qwidget.html and http://doc.qt.io/qt-5/qapplication.html
+
+
+3) Write down the lines of code that you would use in the PlotWindow object to access each ui element.
+
+
+4) What are some differences between a QGraphicsView and a QGraphicsScene? In our example, which one contains the other?
+
+
+
+
+Task 3: Connecting randomButton to a method
+----------------------------------
+
+From the UI editing view, right click the button with the text "Random Button". Choose "Go to slot...", then choose "clicked()".
+
+1) What is the name of the method that was created? What object is it a method of? When you look in the header file for that object, what is this method?
+
+
+2) Write code in this method that prints to qDebug(). When is this code run?
+
+
+
+
+Task 4: Connecting a signal to a non-default slot
+
+1) Add a slot void SlotTest to your PlotWindow. You'll need to add the method declaration in the .h file and the implementation in the .cpp file. Put a print to qDebug() in this slot.
+
+
+
+2) Connect the signal of &QAbsractButton::pressed to the slot that you made for number 1. What are the differences between the clicked and the pressed events?
+
+
+Task 5: Adding the Point object to your project
+-----------------------------------------------
+
+Download point.[h, cpp] from the github repo (these are in the point folder). Move these files into your plotproject_starter folder via the command line or a file explorer. 
+
+
+1) Can you see these files under the "Headers" and "Sources" folder icons in Qt Creator?
+
+
+2) Edit your plotproject_starter1.pro file to include the point.[h, cpp] files. What happens in Qt Creator when you edit these files?
+Hint: make sure to include "\" characters if necessary after previously listed files!
+
+
+3) Add an include for "point.h" into your plotwindow.[h, cpp] files. Make sure that your project can still build.
+
+
+Task 6: Exploring Point
+-----------------------------------------------
+
+1) What object(s) does the Point object inherit from? Can a Point object emit a signal?
+
+
+2) What are the static fields (class attributes) of the Point class? What do you think that they are for/will be for?
+
+
+3) What are the non-static fields (class attributes) of the Point class?
+
+
+4) What are the purposes of the following methods:
+	a) boundingRect
+
+	b) shape
+
+	c) paint
+

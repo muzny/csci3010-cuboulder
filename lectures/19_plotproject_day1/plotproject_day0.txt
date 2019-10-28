@@ -1,0 +1,41 @@
+
+Task 0: Visualizing our plotting field.
+
+The scene that we are going to be plotting our points on has (0, 0) in the top left corner and (width, height) in the bottom right corner. We'll call this layout "gui adjusted".
+
+(0,0) --------------------------------------- (width, 0)
+|                                                      |
+|                                                      |
+|                                                      |
+|                                                      |
+|                                                      |
+|                                                      |
+|                                                      |
+|                                                      |
+|                                                      |
+|                                                      |
+(0, height) ---------------------------- (width, height)
+
+We want to adjust this so that (0, 0) is in the middle of our scene (where our x and y axes meet). Fill in the adjusted values in each of the 4 corners. We'll call this layout "standard". We've filled in the upper left corner to help you get started.
+
+(-width/2, height/2) ------------------------ (________)
+|                          y                           |
+|                          y                           |
+|                          y                           |
+|                          y                           |
+|                          y                           |
+|xxxxxxxxxxxxxxxxxxxxxxxx(0, 0)xxxxxxxxxxxxxxxxxxxxxxxx|
+|                          y                           |
+|                          y                           |
+|                          y                           |
+|                          y                           |
+|                          y                           |
+(__________) -------------------------------- (________)
+
+
+Given a point in standard format, (x, y), what equations will you use to calculate the equivalent coordinates on our gui adjusted layout?
+
+For example, I want an equation that, given the x coordinate 0, will calculate the value width / 2. Given the y coordinate 10, the y-coordinate equation should calculate the value height / 2 - 10. This will make our point (0, 10) appear as if plotted in the standard layout.
+
+
+Now, we'll modify the code in the PlotWindow constructor so that x and y axes are drawn on your QGraphicsScene.

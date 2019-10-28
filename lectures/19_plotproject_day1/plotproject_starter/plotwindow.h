@@ -17,8 +17,6 @@ public:
     explicit PlotWindow(QWidget *parent = 0);
     ~PlotWindow();
 
-
-
 private:
     Ui::PlotWindow *ui;
 

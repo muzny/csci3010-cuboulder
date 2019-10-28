@@ -6,8 +6,6 @@
 
 #include "point.h"
 
-bool Point::delete_mode_ = false; // starting value
-
 /**
   Creates a new Point object with coordinates x and y
   @param x int x coordinate
@@ -37,31 +35,11 @@ void Point::paint(QPainter *painter, const QStyleOptionGraphicsItem *option, QWi
     Q_UNUSED(widget);
 
 
-    painter->setBrush(QBrush(color_));
+    QBrush b = painter->brush();
+    painter->setBrush(QBrush(color_.dark(option->state & QStyle::State_Sunken ? 120 : 100)));
+
     painter->drawEllipse(QRect(this->x_, this->y_, this->width_, this->width_));
-}
-
-void Point::mousePressEvent(QGraphicsSceneMouseEvent *event)
-{
-
-    qDebug() << "This method automatically called when the Point is clicked!";
-
-    // Day 2, Task 5, number 2
-    emit PointClicked(this->x_, this->y_);
-
-    // Day 2, Task 6, number 2
-    // generate a random color
-    int red = rand() % 256;
-    int green = rand() % 256;
-    int blue = rand() % 256;
-    QColor c(red, green, blue);
-    color_ = c;
-
-    // update this QGraphicsItem (sends a signal that it should be repainted)
-    update();
-
-
-    emit DeletePoint(this);
+    painter->setBrush(b);
 }
 
 /**
