@@ -7,6 +7,7 @@ PE 8 (Qt installation + tutorial)
 - Here is a [Qt for beginners wiki that you may find useful](https://wiki.qt.io/Qt_for_Beginners)
 - Please post any Qt Installation questions on piazza with screenshots so that your classmates, the CAs, the TAs, and I can help you out (or come to office hours).
 - You should download the open source version. When you get to the install screen select "Qt Creator" only the most recent version of Qt. (Not All! That would be _very_ _very_ large.)
+    - if you are on Windows, you'll want matching versions of MinGW under both the Qt 5.x arrow option and under the "Developer and Designer Tools"
     - here is a further image of options that you can select to make the installation smaller (Mac os specific): ![installation options mac](qt_smaller.png)
 - Note that if you are running QtCreator on certain linux distributions, the resolution settings are not ideal. If you find the settings to fix these, please post them on piazza.
 - Felix has the binaries downloaded and on a flash drive. Come to office hours if downloading them is taking you a very long time.  
@@ -40,6 +41,7 @@ Part 2: Starting a project in Qt Creator (15 points)
     1. This may be `ui->statusbar->showMessage("YOUR MESSAGE HERE")`. If you're getting an error, you can type `ui->` and look at the autocomplete options.
 7. Add a push button to your UI. Do this by clicking on the "Forms" folder, then "mainwindow.ui". This will open a WYSIWYG (What You See Is What You Get) editor for your GUI. You can search for elements in the text box in the upper left hand side of this editor.
 8. Right-click the push button from the step before, select "Go To Slot", then choose "clicked()" under "QAbstractButton". Modify the function that is provided so that each time you click your new button, the text in the status bar changes. The status bar should show the number of times that the button has been clicked. Hint: you may find adding a field to MainWindow to be useful for this. 
+    1. If your status bar isn't updating, but you think that it should add a call to `update();` at the end of `on_pushButton_clicked` method.
 
 __To turn in__:
 - 1 screenshot of your installed version of Qt Creator running your application from part 2
