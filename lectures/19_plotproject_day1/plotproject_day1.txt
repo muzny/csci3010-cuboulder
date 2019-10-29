@@ -1,10 +1,49 @@
 # Names:
 
 
-
 # You may work with 1 or 2 partners for this activity.
 # Note! This will be an activity that spans multiple days — it will be easiest if you and your partner(s) are able to work together for the duration of the activity.
 
+Task 0: Visualizing our plotting field.
+------------------------------------
+
+The scene that we are going to be plotting our points on has (0, 0) in the top left corner and (width, height) in the bottom right corner. We'll call this layout "gui adjusted".
+
+(0,0) --------------------------------------- (width, 0)
+|                                                      |
+|                                                      |
+|                                                      |
+|                                                      |
+|                                                      |
+|                                                      |
+|                                                      |
+|                                                      |
+|                                                      |
+|                                                      |
+(0, height) ---------------------------- (width, height)
+
+We want to adjust this so that (0, 0) is in the middle of our scene (where our x and y axes meet). Fill in the adjusted values in each of the 4 corners. We'll call this layout "standard". We've filled in the upper left corner to help you get started.
+
+(-width/2, height/2) ------------------------ (________)
+|                          y                           |
+|                          y                           |
+|                          y                           |
+|                          y                           |
+|                          y                           |
+|xxxxxxxxxxxxxxxxxxxxxxxx(0, 0)xxxxxxxxxxxxxxxxxxxxxxxx|
+|                          y                           |
+|                          y                           |
+|                          y                           |
+|                          y                           |
+|                          y                           |
+(__________) -------------------------------- (________)
+
+
+Given a point in standard format, (x, y), what equations will you use to calculate the equivalent coordinates on our gui adjusted layout?
+
+For example, I want an equation that, given the x coordinate 0, will calculate the value width / 2. Given the y coordinate 10, the y-coordinate equation should calculate the value height / 2 - 10. This will make our point (0, 10) appear as if plotted in the standard layout.
+
+1) # YOUR EQUATIONS HERE
 
 Task 1: Importing our project
 ----------------------------------
@@ -16,8 +55,15 @@ Notice that this directory doesn't contain a *.pro.user file. That's because the
 Open Qt Creator and choose "Open Project". When prompted, choose the first option (clang) for the build system. Your project should now open and you should be able to press the green "play" button to successfully build the project.
 
 
+Task 2: Adding axes
+------------------
+Now, we'll modify the code in the PlotWindow constructor so that x and y axes are drawn on your QGraphicsScene.
+Use the `scene->addLine` function to do this.
 
-Task 2: Qt GUI basics -- using the framework for the given qt plotting project
+1) # COPY AND PASTE YOUR CODE HERE
+
+
+Task 3: Qt GUI basics -- using the framework for the given qt plotting project
 ----------------------------------
 
 1) What object does our PlotWindow inherit?
@@ -34,7 +80,7 @@ Task 2: Qt GUI basics -- using the framework for the given qt plotting project
 
 
 
-Task 3: Connecting randomButton to a method
+Task 4: Connecting randomButton to a method
 ----------------------------------
 
 From the UI editing view, right click the button with the text "Random Button". Choose "Go to slot...", then choose "clicked()".
@@ -47,7 +93,7 @@ From the UI editing view, right click the button with the text "Random Button". 
 
 
 
-Task 4: Connecting a signal to a non-default slot
+Task 5: Connecting a signal to a non-default slot
 ----------------------------------
 
 1) Add a slot void SlotTest to your PlotWindow. You'll need to add the method declaration in the .h file and the implementation in the .cpp file. Put a print to qDebug() in this slot.
@@ -57,7 +103,7 @@ Task 4: Connecting a signal to a non-default slot
 2) Connect the signal of &QAbsractButton::pressed to the slot that you made for number 1. What are the differences between the clicked and the pressed events?
 
 
-Task 5: Adding the Point object to your project
+Task 6: Adding the Point object to your project
 -----------------------------------------------
 
 Download point.[h, cpp] from the github repo (these are in the point folder). Move these files into your plotproject_starter folder via the command line or a file explorer. 
@@ -73,7 +119,7 @@ Hint: make sure to include "\" characters if necessary after previously listed f
 3) Add an include for "point.h" into your plotwindow.[h, cpp] files. Make sure that your project can still build.
 
 
-Task 6: Exploring Point
+Task 7: Exploring Point
 -----------------------------------------------
 
 1) What object(s) does the Point object inherit from? Can a Point object emit a signal?
