@@ -15,8 +15,7 @@ Materials will be turned in on Canvas.
 
 Quick Links
 -------------
-Week of October 21st:
-- [PE 8](programming_exercises/pe8.md), due Friday, October 25th at 6pm
+Week of October 28th:
 - [PE 9](programming_exercises/pe9.md), due Tuesday, October 29th at 12pm
 - [PE 10](programming_exercises/pe10.md), due Friday, November 1st at 6pm
 - [HW 4](homework/hw4_life/), due Friday, November 8th at 6pm
