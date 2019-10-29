@@ -48,6 +48,7 @@ From the UI editing view, right click the button with the text "Random Button". 
 
 
 Task 4: Connecting a signal to a non-default slot
+----------------------------------
 
 1) Add a slot void SlotTest to your PlotWindow. You'll need to add the method declaration in the .h file and the implementation in the .cpp file. Put a print to qDebug() in this slot.
 
@@ -84,10 +85,13 @@ Task 6: Exploring Point
 3) What are the non-static fields (class attributes) of the Point class?
 
 
-4) What are the purposes of the following methods:
+4) What are the purposes of the following methods (go read the qt documentation and the documentation on our github in the examples folder):
+
 	a) boundingRect
+
 
 	b) shape
 
 	c) paint
 
+5) Add some Point(s) to your gui in the PlotWindow constructor (we'll work on connecting the add button next lecture)

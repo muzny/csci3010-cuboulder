@@ -32,7 +32,6 @@ PlotWindow::PlotWindow(QWidget *parent) :
 
     qDebug() << "Here's an example debugging statement";
 
-//    ui->-
 
     // Day 1, Task 2, number 5:
     // use the scene->addLine method to add lines to your scene for the x and y axes.
