@@ -36,7 +36,7 @@ void Point::paint(QPainter *painter, const QStyleOptionGraphicsItem *option, QWi
 
 
     QBrush b = painter->brush();
-    painter->setBrush(QBrush(color_.dark(option->state & QStyle::State_Sunken ? 120 : 100)));
+    painter->setBrush(QBrush(color_));
 
     painter->drawEllipse(QRect(this->x_, this->y_, this->width_, this->width_));
     painter->setBrush(b);
