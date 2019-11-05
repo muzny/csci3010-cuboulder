@@ -15,10 +15,10 @@ Materials will be turned in on Canvas.
 
 Quick Links
 -------------
-Week of October 28th:
-- [PE 9](programming_exercises/pe9.md), due Tuesday, October 29th at 12pm
-- [PE 10](programming_exercises/pe10.md), due Friday, November 1st at 6pm
+Week of November 4th:
 - [HW 4](homework/hw4_life/), due Friday, November 8th at 6pm
+- [PE 11](programming_exercises/pe11.md), to be completed before Tuesday, November 19th @ 12:45pm. Most appointment slots will be the week of 11/11.
+- [PE 12](programming_exercises/pe12.md), due Friday, November 15th at 6pm
 
 [Course collaboration repository](https://github.com/muzny/csci3010-fall2019-collab)
 
