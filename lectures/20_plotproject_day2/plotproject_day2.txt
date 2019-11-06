@@ -1,0 +1,124 @@
+# Names:
+
+
+
+# You may work with 1 or 2 partners for this activity.
+# Note! This will be an activity that spans multiple days — it will be easiest if you and your partner(s) are able to work together for the duration of the activity.
+
+
+Last lecture, we worked on adding axes and two slots to our plot project. Today, we'll work on actually graphing points and hooking up the Add Point button to our mouse clicks.
+
+This means that by the end of today, you should have all three configurations of signal/slot connections implemented:
+1) default signal + default slot (Random button clicked)
+2) default signal + custom slot (random button pressed)
+3) custom signal + custom slot (task 5 today)
+
+Task 0: Make sure you have axes
+---------------------------------------------
+
+If you did not finish plot project day 1, add the following code to your PlotWindow constructor.
+
+// Calculate the mid points
+int x_mid = view->frameSize().height() / 2;
+int y_mid = view->frameSize().width() / 2;
+
+// draw the axes
+scene->addLine(0, x_mid, view->frameSize().width(), x_mid);
+scene->addLine(y_mid, 0, y_mid, view->frameSize().height());
+
+Make sure that you've successfully incorporated point.cpp and point.h into your project, following the instructions from day 1.
+
+Here are the basic equations that you'll use to calculate x and y adjusted to the gui layout:
+
+int x_adj = x + (ui->plotGraphicsView->frameSize().width() / 2);
+int y_adj = (-1 * y + (ui->plotGraphicsView->frameSize().height() / 2));
+
+You may find that you need to adjust these slightly in your explorations today!
+
+
+Task 1: Adding a Point to our scene (manually)
+-----------------------------------------------
+
+1) Instantiate a Point * in your PlotWindow constructor (make sure to pass a QColor as the first parameter, a QColor can be instantiated by giving it 3 int values for red, green, blue). Once you've done this, call the scene->addItem method passing in your Point *. Make sure that when you run your program you can see your Point! (Hint: if you give your Point the coordinates 0, 0, it will appear in the upper left corner)
+
+Here's an example QColor instantiation:
+QColor color(255, 255, 255);
+
+
+
+2) What lines of code do you need to write to add a Point to your scene that appears at the origin?
+
+
+Task 2: Adding some Points to our scene (Add Point button)
+-----------------------------------------------
+1) Create a slot that is triggered when the "Add Point" button is clicked. Don't forget the connect statement that you'll need to add in the PlotWindow constructor!
+
+
+2) Make this slot so that it actually adds a Point to your graphics scene. Use the following code (and add to it!) to get the coordinates from the text boxes as integers:
+
+All of this goes in the slot that gets triggered by a click on AddPoint
+
+// &safe is the address of a boolean value that will be set to True if the 
+// method successfully converted the text to an int and False otherwise
+bool safe = false;
+int x = ui->xCoord->text().toInt(&safe);
+if (!safe) {
+    return;
+}
+// do the same thing for the y coordinate
+
+// then create your point and add it to the scene!
+
+
+Make sure that the Points appear where the user thinks that they should appear!
+
+Hint: you'll want to account for the diameter of the Point itself!
+
+
+
+Task 3: Emitting a Signal from a Point (custom everything!)
+-------------------------------------------------
+1) Take a look at the Point header file. Add the following code to this file defining a custom signal and adding the mousePressEvent function.
+
+
+// in point.h
+signals:
+    // for distance
+    void PointSelected(int x, int y);
+
+protected:
+    void mousePressEvent(QGraphicsSceneMouseEvent *event) override;
+
+
+//in point.cpp
+void Point::mousePressEvent(QGraphicsSceneMouseEvent *event)
+{
+	qDebug() << "point clicked!";
+}
+
+What parameters does the PointSelected signal take? What line of code would you write to emit this signal from the mousePressEvent method in Point?
+
+
+
+2) Emit the PointSelected signal from the mousePressEvent method in the Point class. Make sure to give it the x and y values of this Point! Run your application. Has anything changed? Why or why not?
+
+
+
+3) When you add a Point to your scene in your PlotWindow, connect that Point and it's PointSelected signal to a new slot in your PlotWindow class. This new slot must have the same parameters as the signal that it is receiving. Implement this slot so that it prints the x and y coordinates of the clicked point via qDebug().
+
+
+
+4) Will signals ever have return values? why yes/ why no?
+
+
+
+5) Implement a second signal for your Point object that has a Point * parameter. Implement a corresponding slot and connect this signal from the points that you create to this slot. Copy + paste your code to emit this signal here.
+
+
+
+Task 4: Making our Point change colors when we click it
+-----------------------------------------------
+1) Finish implementing the void Point::mousePressEvent(QGraphicsSceneMouseEvent *event) method in point.cpp by making it so that when a user clicks a point, it changes colors. This method is automatically called whenever a user clicks a Point. Copy + paste the code that you added here.
+
+
+
