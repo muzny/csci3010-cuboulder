@@ -15,10 +15,11 @@ Materials will be turned in on Canvas.
 
 Quick Links
 -------------
-Week of November 4th:
-- [HW 4](homework/hw4_life/), due Friday, November 8th at 6pm
+Week of November 11th:
 - [PE 11](programming_exercises/pe11.md), to be completed before Tuesday, November 19th @ 12:45pm. Most appointment slots will be the week of 11/11.
 - [PE 12](programming_exercises/pe12.md), due Friday, November 15th at 6pm
+- [Final Project/ "HW 5" Checkpoint 0](homework/hw5_finalproject/), due Tuesday, November 17th @ noon
+- [Final Project/ "HW 5" Checkpoint 1](homework/hw5_finalproject/), due Friday, November 22nd at <s>6pm</s> 11:59pm
 
 [Course collaboration repository](https://github.com/muzny/csci3010-fall2019-collab)
 
@@ -28,8 +29,10 @@ Major Deadlines
 - HW 2, due Sunday, October 6th at 11:59pm
 - HW 3, due Friday, October 18th at 6pm
 - HW 4, due Friday, November 8th at 6pm
-- Final Project ("HW 5") checkpoint, due Friday, November 22nd at 6pm
-- Final Project ("HW 5"), due TBA, week of December 9th (TBA after presentations are scheduled)
+- Final Project ("HW 5") checkpoint, due Friday, November 22nd at <s>6pm</s> 11:59pm
+- Final Project ("HW 5"), due Tuesday, December 10th at 11:59pm
+- Final Presentations - individual projects - __TBD__
+- Final Presentations - standard track - __TBD__
 
 Recommended workflow:
 ---------------
