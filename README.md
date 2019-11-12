@@ -15,10 +15,11 @@ Materials will be turned in on Canvas.
 
 Quick Links
 -------------
-Week of November 4th:
-- [HW 4](homework/hw4_life/), due Friday, November 8th at 6pm
+Week of November 11th:
 - [PE 11](programming_exercises/pe11.md), to be completed before Tuesday, November 19th @ 12:45pm. Most appointment slots will be the week of 11/11.
 - [PE 12](programming_exercises/pe12.md), due Friday, November 15th at 6pm
+- [Final Project/ "HW 5" Checkpoint 0](homework/hw5_finalproject/), due by the end of class Thursday/Friday, November 14/15th
+- [Final Project/ "HW 5" Checkpoint 1](homework/hw5_finalproject/), due Friday, November 22nd at 6pm
 
 [Course collaboration repository](https://github.com/muzny/csci3010-fall2019-collab)
 
