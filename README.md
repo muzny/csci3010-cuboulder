@@ -18,7 +18,7 @@ Quick Links
 Week of November 11th:
 - [PE 11](programming_exercises/pe11.md), to be completed before Tuesday, November 19th @ 12:45pm. Most appointment slots will be the week of 11/11.
 - [PE 12](programming_exercises/pe12.md), due Friday, November 15th at 6pm
-- [Final Project/ "HW 5" Checkpoint 0](homework/hw5_finalproject/), due Thursday/Friday, November 14/15th at 11:59pm
+- [Final Project/ "HW 5" Checkpoint 0](homework/hw5_finalproject/), due Tuesday, November 17th @ noon
 - [Final Project/ "HW 5" Checkpoint 1](homework/hw5_finalproject/), due Friday, November 22nd at <s>6pm</s> 11:59pm
 
 [Course collaboration repository](https://github.com/muzny/csci3010-fall2019-collab)
