@@ -1,5 +1,17 @@
 Note! This is not a complete reference guide but should provide you some pointers on where to get started on some subjects that we cover. If you want more resources for a particular subject, post your request on Piazza and we'll add more to this list!
 
+APIs & Web Programming
+------------------
+[__HTTP requests formatting__](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)  
+
+[__Request methods (wikipedia)__](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods)  
+
+[__POST requests (wikipedia)__](https://en.wikipedia.org/wiki/POST_(HTTP))  
+
+[__client-side web APIs__](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction)  
+  
+[__3rd party web APIs__](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Third_party_APIs)
+
 Qt & Qt Creator
 ---------------
 [__Qt documentation__](http://doc.qt.io/)
