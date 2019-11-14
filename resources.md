@@ -4,6 +4,8 @@ APIs & Web Programming
 ------------------
 [__HTTP requests formatting__](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)  
 
+[__HTTP request methods__](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)  
+
 [__Request methods (wikipedia)__](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods)  
 
 [__POST requests (wikipedia)__](https://en.wikipedia.org/wiki/POST_(HTTP))  
