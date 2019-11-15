@@ -12,7 +12,9 @@ APIs & Web Programming
 
 [__client-side web APIs__](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction)  
   
-[__3rd party web APIs__](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Third_party_APIs)
+[__3rd party web APIs__](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Third_party_APIs)  
+
+[__Simple-Web-Server__](https://gitlab.com/eidheim/Simple-Web-Server)
 
 Qt & Qt Creator
 ---------------
