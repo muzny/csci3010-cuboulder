@@ -10,9 +10,7 @@ Section 1: APIs and REST
 ---------------------------------------------------------
 1. In your own words, what is an API?
 2. Web Requests  
-Say I have a server that accepts both GET and POST requests at the endpoint:
-  
-`http://catscatscats.ca/info`
+Say I have a server that accepts both GET and POST requests at the endpoint: `http://catscatscats.ca/info`
     1. What is a [GET](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/GET) request?
 	    1. How is a GET request formatted?
         2. How are parameters/[query strings](https://en.wikipedia.org/wiki/Query_string) in a GET request sent?
@@ -32,9 +30,9 @@ Section 2: Investigating requests completed when navigating to a webpage
 -------------------------
 
 Open the developer tools to the network pane.
-    - For Firefox, right-click, then select "Inspect Element", then choose "Network" in the tab options.
-    - For Chrome, right-click, then select "Inspect", then choose "Network" in the tab options.
-    - For Safari, choose the "Safari" menu, select Preferences, choose "Advanced", then check the box next to "Show Develop menu in menu bar". Now, from your "Develop" menu, choose "Show Web Inspector", then click the "Network" tab.
+- For Firefox, right-click, then select "Inspect Element", then choose "Network" in the tab options.
+- For Chrome, right-click, then select "Inspect", then choose "Network" in the tab options.
+- For Safari, choose the "Safari" menu, select Preferences, choose "Advanced", then check the box next to "Show Develop menu in menu bar". Now, from your "Develop" menu, choose "Show Web Inspector", then click the "Network" tab.
 
 You may want to reload the page with your network pane open to see what happens.
 
@@ -54,16 +52,17 @@ Register for the Dark Sky API (https://darksky.net/dev) if you have not already 
 
 1. What GET endpoints are available in this API? (are there any?)
 2. What POST endpoints are available in this API? (are there any?)
-3. Open a new window in your preferred web browser and navigate to `https://api.darksky.net/forecast/[YOUR KEY HERE]/40.0,-105.263`. What does this do?
-4. Now, we'll use the command line tool `curl` to do the same thing. (remember that you can read the man page for curl by typing "man curl"
+3. Open a new window in your preferred web browser and navigate to `https://api.darksky.net/forecast/[YOUR KEY HERE]/40.0,-105.263`. What does this do?  
+
+
+Next, we'll use the command line tool `curl` to do the same thing. (remember that you can read the man page for curl by typing "man curl"
 ```
 The basic format for curl is: curl -i -X [GET|POST|DELETE|etc] [address]
 The -i stands for include which includes the HTTP header in the output (helpful)
 The -X stands for request which lets us explicitly say what request we are making (default is GET)
 ```
-
-    1. What is the curl command to issue a GET request to `https://api.darksky.net/forecast/[YOUR KEY HERE]/40.0,-105.263` ?
-    2. Write down valid curl commands to access the other endpoints from this API.
+4. What is the curl command to issue a GET request to `https://api.darksky.net/forecast/[YOUR KEY HERE]/40.0,-105.263` ?
+5. Write down valid curl commands to access the other endpoints from this API.
 
 Section 4: Investingating `Simple-Web-Server`
 -----------------------------
