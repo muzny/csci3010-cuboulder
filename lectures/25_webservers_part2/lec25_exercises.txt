@@ -15,13 +15,19 @@ Exploring the API (look at messenger.cpp)
 --------------------------------------------------------------------------
 Using curl, do the following tasks. Copy+paste the commands you used below
 --------------------------------------------------------------------------
+
+Here are flags that you may find useful:
 -i (--include) include the HTTP-header in the output
 -X (--request) specifies what kind of request to make
 -d (--data) specifies what data to send along with your request
 -H (--header) specifies a header to send along with the request
 
+Here is the general format:
+curl -i -X TYPE http://cs1200-web.cs.colorado.edu:8080/ [--data YOUR_DATA_HERE] [--header YOUR_HEADERS_HERE]
+(don't include the square brackets, they are indicating that you don't need to include these pieces for all requests)
+
 1. Get a list of available chat rooms
-curl -i -X GET http://localhost:8080/chatrooms
+
 
 
 2. Create a new chat room
@@ -30,7 +36,8 @@ curl -i -X GET http://localhost:8080/chatrooms
 
 3. Post a message in a chat room
 hint: when POSTing JSON, you'll need to include the header "Content-Type: application/json"
-hint2: when formatting your JSON, format it like: "{'field1': 'value1', 'field2': 'value2'}"
+hint2: when formatting your JSON, format it like: '{"field1": "value1", "field2": "value2"}'
+Hint 3: do include the quotations in your curl request!
 
 
 4. Display the contents of a chat room
