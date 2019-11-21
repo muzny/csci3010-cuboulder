@@ -1,8 +1,9 @@
 CP 1 (45 points)
 ===============
 `prototype.pdf`  
--low-fidelity prototype: 10 points
--user testing: 5 points  
+
+- low-fidelity prototype: 10 points
+- user testing: 5 points  
 `checkpoint1.pdf`  
 - answers to planned/actually completed questions: 10 points
 - screenshots: 5 points  
