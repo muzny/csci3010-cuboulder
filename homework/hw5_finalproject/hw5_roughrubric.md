@@ -1,12 +1,12 @@
 CP 1 (45 points)
 ===============
-`prototype.pdf`
+`prototype.pdf`  
 -low-fidelity prototype: 10 points
--user testing: 5 points
+-user testing: 5 points  
 `checkpoint1.pdf`  
 - answers to planned/actually completed questions: 10 points
-- screenshots: 5 points
-`finalproject.zip`  
+- screenshots: 5 points  
+`finalproject.zip`   
 - having your UI laid out and code that runs (no functionality required): 5 points
 - having implemented non-trivial logic: 10 for individuals / 5 points for pairs
 github
