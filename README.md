@@ -15,12 +15,6 @@ Materials will be turned in on Canvas.
 
 Quick Links
 -------------
-Week of November 11th:
-- [PE 11](programming_exercises/pe11.md), to be completed before Tuesday, November 19th @ 12:45pm. Most appointment slots will be the week of 11/11.
-- [PE 12](programming_exercises/pe12.md), due Friday, November 15th at 6pm
-- [Final Project/ "HW 5" Checkpoint 0](homework/hw5_finalproject/), due Tuesday, November 19th @ noon
-- [Final Project/ "HW 5" Checkpoint 1](homework/hw5_finalproject/), due Friday, November 22nd at <s>6pm</s> 11:59pm
-
 Week of December 2nd:
 - [PE 13](programming_exercises/pe13.md), to be completed by Thursday, December 12th.
 - [PE 14](programming_exercises/pe14.md), due Friday, December 6th at 6pm
@@ -35,8 +29,8 @@ Major Deadlines
 - HW 4, due Friday, November 8th at 6pm
 - Final Project ("HW 5") checkpoint, due Friday, November 22nd at <s>6pm</s> 11:59pm
 - Final Project ("HW 5"), due Tuesday, December 10th at 11:59pm
-- Final Presentations - individual projects - __TBD__
-- Final Presentations - standard track - __TBD__
+- Final Presentations - individual projects - in class, December 11th and 12th
+- Final Presentations - standard track - Sunday, December 15th @ 4:30pm in FLMG 33 for most students.
 
 Recommended workflow:
 ---------------
