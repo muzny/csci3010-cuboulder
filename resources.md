@@ -103,7 +103,7 @@ Terminal & bash
 Compiling and Makefiles
 --------------------
 
-[__c++ compilation process__](http://faculty.cs.niu.edu/~mcmahon/CS241/Notes/compile.html) -- What are the steps to converting c++ file(s) to an executable file? This is a quick run down of all the steps involved.
+[__c++ compilation process__](http://faculty.cs.niu.edu/~mcmahon/CS241/Notes/build.html) -- What are the steps to converting c++ file(s) to an executable file? This is a quick run down of all the steps involved.
 
 [__example Makefile__](examples/Makefile)
 
