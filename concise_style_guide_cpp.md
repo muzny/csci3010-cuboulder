@@ -45,7 +45,8 @@ You do not need one class per file, but your namespaces should make semantic sen
 
 Comments
 -------
-You must comment your code. This includes file comments, function comments, and in-line comments.  
+You must comment your code. This includes file comments, function comments, and in-line comments. You may use sensible levels of granularity as required.
+
 __File comments__: should be used to identify yourself, give a brief description of what the program does, and how to run it.  
 
 ```c++
