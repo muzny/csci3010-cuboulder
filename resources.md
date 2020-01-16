@@ -135,5 +135,5 @@ Enums
 C++ Errors
 -------
 
-[__compiler, linker, run-time errors__(https://www.cs.bu.edu/teaching/cpp/debugging/errors/)
+[__compiler, linker, run-time errors__](https://www.cs.bu.edu/teaching/cpp/debugging/errors/)
 
