@@ -1,5 +1,6 @@
 Note! This is not a complete reference guide but should provide you some pointers on where to get started on some subjects that we cover. If you want more resources for a particular subject, post your request on Piazza and we'll add more to this list!
 
+<!--
 APIs & Web Programming
 ------------------
 [__HTTP requests formatting__](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)  
@@ -88,6 +89,8 @@ Version control & git
 [__about pull requests__](https://help.github.com/articles/about-pull-requests/)
 
 [__resolving merge conflicts__](https://help.github.com/articles/resolving-a-merge-conflict-using-the-command-line/)
+
+-->
 
 
 Terminal & bash
