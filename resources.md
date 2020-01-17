@@ -1,5 +1,6 @@
 Note! This is not a complete reference guide but should provide you some pointers on where to get started on some subjects that we cover. If you want more resources for a particular subject, post your request on Piazza and we'll add more to this list!
 
+<!--
 APIs & Web Programming
 ------------------
 [__HTTP requests formatting__](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)  
@@ -89,6 +90,8 @@ Version control & git
 
 [__resolving merge conflicts__](https://help.github.com/articles/resolving-a-merge-conflict-using-the-command-line/)
 
+-->
+
 
 Terminal & bash
 ---------------------
@@ -103,7 +106,7 @@ Terminal & bash
 Compiling and Makefiles
 --------------------
 
-[__c++ compilation process__](http://faculty.cs.niu.edu/~mcmahon/CS241/Notes/compile.html) -- What are the steps to converting c++ file(s) to an executable file? This is a quick run down of all the steps involved.
+[__c++ compilation process__](http://faculty.cs.niu.edu/~mcmahon/CS241/Notes/build.html) -- What are the steps to converting c++ file(s) to an executable file? This is a quick run down of all the steps involved.
 
 [__example Makefile__](examples/Makefile)
 
@@ -131,4 +134,9 @@ Enums
 [__enums__](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#S-enum)
 
 [__enum class vs. enum (stack overflow)__](https://stackoverflow.com/questions/18335861/why-is-enum-class-preferred-over-plain-enum)
+
+C++ Errors
+-------
+
+[__compiler, linker, run-time errors__](https://www.cs.bu.edu/teaching/cpp/debugging/errors/)
 
