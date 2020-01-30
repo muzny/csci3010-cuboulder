@@ -76,6 +76,9 @@ Unit Testing
 
 [__Catch2 Assertion Macros__](https://github.com/catchorg/Catch2/blob/master/docs/assertions.md#top)
 
+
+-->
+
 Version control & git
 ----------------
 [__CVS vs. DVCS__](https://www.atlassian.com/blog/software-teams/version-control-centralized-dvcs)
@@ -90,7 +93,7 @@ Version control & git
 
 [__resolving merge conflicts__](https://help.github.com/articles/resolving-a-merge-conflict-using-the-command-line/)
 
--->
+
 
 
 Terminal & bash
