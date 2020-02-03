@@ -28,7 +28,7 @@ Qt & Qt Creator
 [__about .pro files__](http://doc.qt.io/qt-5/qmake-project-files.html)
 
 [__Hello world Qt tutorial__](https://prognotes.net/2016/11/qt-5-hello-world-tutorial-using-qt-creator/)
-
+-->
 
 Design Patterns (game programming blog)
 ------------
@@ -77,7 +77,7 @@ Unit Testing
 [__Catch2 Assertion Macros__](https://github.com/catchorg/Catch2/blob/master/docs/assertions.md#top)
 
 
--->
+
 
 Version control & git
 ----------------
