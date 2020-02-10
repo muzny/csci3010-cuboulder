@@ -49,6 +49,8 @@ QGraphicsView * view = ui->myView;
 scene = new QGraphicsScene;
 
 view->setScene(scene); // Sets up the graphics view to be able to be drawn on.
+// you'll also want to set the size of the scene to be the size of the QGraphicsView
+view->setSceneRect(0,0,view->frameSize().width(),view->frameSize().height());
 ```
 
 You should be able to now draw things like lines and circles on your view.
@@ -58,4 +60,6 @@ You should be able to now draw things like lines and circles on your view.
 scene->addLine(x_pos_start, y_pos_start, x_pos_end, y_pos_end)
 ```
 
-In a QGraphicsScene, (0,0) is the top-left corner of the screen.
+In a QGraphicsScene, (0,0) is the top-left corner of the screen.  
+
+If you would like your scene to redraw/repaint, you can call `scene->update()`. Note that updating your view instead of your scene may not have the desired effects. `QGraphicsItem`s also have an `update()` method that you may need to use.

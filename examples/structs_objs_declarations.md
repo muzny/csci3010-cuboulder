@@ -29,8 +29,8 @@ About structure + functionality. If you find yourself adding lots of functionali
 
 ```c++
 // in Name.h
-#ifndef _NAME_H_  // this is the header guard
-#define _NAME_H_
+#ifndef NAME_H  // this is the header guard
+#define NAME_H
 
 // declare
 class Name {
@@ -47,7 +47,7 @@ class Name {
         type field_; //private fields/attributes should end in an underscore
 };
 
-#endif  // end _NAME_H_ header guard
+#endif  // end NAME_H header guard
 
 
 // in Name.cpp
