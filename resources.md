@@ -65,7 +65,7 @@ Continuous Integration
 -----------
 [__Travis/CI core concepts__](https://docs.travis-ci.com/user/for-beginners/)
 
-For an example `.travis.yml` file, see the course collaboration repository  
+For an example `.travis.yml` file, see the [demo repo in the course organization](https://github.com/CSCI-3010-CUBoulder/CSCI3010-demo-Lec6/blob/master/.travis.yml). 
 
 [__Travis embedding status icons__](https://docs.travis-ci.com/user/status-images/)
 
