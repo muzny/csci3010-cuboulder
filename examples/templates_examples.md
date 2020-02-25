@@ -13,7 +13,7 @@ Templating classes and structs
 
 ```c++
 template <class T>
-Name {
+class Name {
 public:
   // any methods that interact with T as a parameter
   // or a return value will need to be explicitly marked
@@ -31,7 +31,7 @@ In the implementation (see note below about where to put the implementations:
 
 ```c++
 template <class T>
-T Name::get_field1() {
+T Name<T>::get_field1() {
   return field1_;
 }
   
@@ -57,7 +57,7 @@ When implementing `operator<<`, we'll need to designate a new variable to stand 
 
 ```c++
 template <class T>
-Name {
+class Name {
 public:
   // any methods that interact with T as a parameter
   // or a return value will need to be explicitly marked
