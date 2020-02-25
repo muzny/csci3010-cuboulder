@@ -37,7 +37,7 @@ T Name<T>::get_field1() {
   
  
 template <class T>  
-void Name::AddFoo(T value) {
+void Name<T>::AddFoo(T value) {
   field1_ += T;
 }
 ```
