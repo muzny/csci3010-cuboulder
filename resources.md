@@ -36,7 +36,15 @@ Design Patterns (game programming blog)
 
 [__Flyweight__](http://gameprogrammingpatterns.com/flyweight.html)
 
+__Factory (without inheritance)__ -- look at notes in `design_patterns.md` after we go over them in class.
+
+[__Factory (example with inheritance)__](https://sourcemaking.com/design_patterns/factory_method/cpp/1)  
+
 [__Prototype__](http://gameprogrammingpatterns.com/prototype.html)
+
+[__Iterator (using)__](https://www.cprogramming.com/tutorial/stl/iterators.html)  
+
+[__Iterator (how to implement)__](https://stackoverflow.com/questions/8054273/how-to-implement-an-stl-style-iterator-and-avoid-common-pitfalls)
 
 
 Design Patterns & `static`
@@ -44,7 +52,7 @@ Design Patterns & `static`
 [__`static` wikipedia__](https://en.wikipedia.org/wiki/Static_(keyword))  
 
 
-[__Singleton Example__](lectures/10_static_singleton/earth/Earth.h)  
+__Singleton Example__ -- Can be found in lecture 11 (Earth examples)
 
 
 Inheritance
