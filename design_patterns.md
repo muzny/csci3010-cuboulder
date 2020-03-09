@@ -61,9 +61,9 @@ Iterator
 -------
 What:  
 Specifies an order of traversal for a collection and provides a standard interface
-to that traversal.
-
-How:
+to that traversal.  
+  
+How:  
 - define the starting point for the iterator
 - define how to go to the next element
 - define the ending point for the iterator
@@ -77,6 +77,62 @@ while (it != collection_var.end()) {
   it++;
 }
 ```
+
+Factory
+-------
+Problem: sometimes objects are cumbersome to create, for instance with a class representing time.  
+
+Time class:  
+- Time(hours, minutes, seconds, timezone)  
+- Time(hours, minutes)  
+
+Provides an interface:
+- get the current time
+- get a time representing a certain date
+- get a time X hours from now
+
+What: a method or class whose primary objective is to manage the creation of other objects
+- frequently used with inheritance (we won't look at this today, but have this on your radar)
+1. Abstract away constructors with many parameters/flags
+2. Manage any heavy dependcies between objects
+3. Manage creation of Flyweighted objects
+
+How: 
+Create a wrapper class or method for object constructors or linked dependencies.  
+
+When to use:
+- if you have highly configurable objects with some common configurations
+- if you need more control over creating objects
+- if you have subclasses and you would like an easy interface to instantiate the specific subclass that you need
+
+
+When not to use:
+- for all objects (only use when you have a reason to)
+- if your "basic" constructor will do, no need
+
+Prototype
+---------
+Problem: you want the "client" to have a copy of an object without giving them the actual object. You want to control how objects are created.
+
+How: provide a (virtual) Clone() method (examples in both PE 6 (Item) and in Creature)
+- in C++, we have a copy constructor -- not the prototype design pattern is because:
+1. it is language specific
+2. these are not inherited (special inheritance rules)
+
+When to use:
+When you want easy but controlled copying of an object
+
+When not to use:
+In c++, if your only purpose is reimplementing the copy constructor
+
+
+
+
+
+
+
+
+
 
 
 
