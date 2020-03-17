@@ -17,6 +17,8 @@ APIs & Web Programming
 
 [__Simple-Web-Server__](https://gitlab.com/eidheim/Simple-Web-Server)
 
+-->
+
 Qt & Qt Creator
 ---------------
 [__Qt documentation__](http://doc.qt.io/)
@@ -28,7 +30,12 @@ Qt & Qt Creator
 [__about .pro files__](http://doc.qt.io/qt-5/qmake-project-files.html)
 
 [__Hello world Qt tutorial__](https://prognotes.net/2016/11/qt-5-hello-world-tutorial-using-qt-creator/)
--->
+
+[__Video Tutorial for creating a Qt Widget Application__](https://www.youtube.com/watch?v=Y1c-ieVO-UY&list=PLS1QulWo1RIZiBcTr5urECberTITj7gjA&index=4)
+
+[__Examples for getting starting written by course staff__](examples/getting_started_qt.md)
+
+[__Working with Qt and git__](examples/qt_and_git.md)
 
 Design Patterns (game programming blog)
 ------------
