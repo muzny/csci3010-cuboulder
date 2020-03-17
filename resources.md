@@ -37,6 +37,8 @@ Qt & Qt Creator
 
 [__Working with Qt and git__](examples/qt_and_git.md)
 
+[__debugging some Qt/Qt Creator problems__](https://web.stanford.edu/dept/cs_edu/qt-creator/qt-creator-troubleshooting.shtml)
+
 Design Patterns (game programming blog)
 ------------
 [__Singleton__](http://gameprogrammingpatterns.com/singleton.html)
