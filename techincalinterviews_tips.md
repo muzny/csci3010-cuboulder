@@ -3,9 +3,9 @@ Technical Interviews
 tips:
 
 1. Communication
-    1. talk through your code as you are doing it (practice this!)
-    2.talk through your code as you are writing it on a white board or a computer (ask where you will be coding for the technical portion!)
-    3.use a language that you are comfortable with (don't use a language you are uncomfortable with just to try to impress a reviewer)
+    1. talk through your code as you are doing it (practice this!)  
+    2. talk through your code as you are writing it on a white board or a computer (ask where you will be coding for the technical portion!)  
+    3. use a language that you are comfortable with (don't use a language you are uncomfortable with just to try to impress a reviewer)  
 2. Solving the problem 
     1. start with the simple solution that you can think of
     2. if you discard an approach, make sure to explain why
