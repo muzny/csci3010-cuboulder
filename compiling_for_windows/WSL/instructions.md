@@ -6,13 +6,9 @@ You Windows machine must be running 64 bit Windows, and be updated to the lastes
 
 ## Enabling Windows Subsystem for Linux
 
-1. Type `Turn Windows features on or off` into your taskbars search box.
+1. Type `Turn Windows features on or off` into your taskbars search box. (see screenshot #1)
 
-![Windows features screenshot][1]
-
-2. Check Windows Subsystem for Linux in the Windows Features Window
-
-![Windows features menu screenshot][2]
+2. Check Windows Subsystem for Linux in the Windows Features Window. (see screenshot #2)
 
     Then press OK and restart your machine.
 
