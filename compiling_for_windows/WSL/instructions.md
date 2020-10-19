@@ -6,9 +6,9 @@ You Windows machine must be running 64 bit Windows, and be updated to the lastes
 
 ## Enabling Windows Subsystem for Linux
 
-1. Type `Turn Windows features on or off` into your taskbars search box. (see screenshot #1)
+1. Type `Turn Windows features on or off` into your taskbars search box. (see [screenshot #1](hhttps://github.com/muzny/csci3010-cuboulder/blob/master/compiling_for_windows/WSL/Windows_features.PNG) )
 
-2. Check Windows Subsystem for Linux in the Windows Features Window. (see screenshot #2)
+2. Check Windows Subsystem for Linux in the Windows Features Window. (see [screenshot #2](https://raw.githubusercontent.com/muzny/csci3010-cuboulder/master/compiling_for_windows/WSL/Windows_features_2.PNG) 
 
     Then press OK and restart your machine.
 
@@ -33,7 +33,4 @@ You Windows machine must be running 64 bit Windows, and be updated to the lastes
 2. You can get alternative terminals like Hyper or ConEMU!
 
 
-### If you have questions just come to office hours or send an email or piazza post to me.
-
-[1]: https://raw.githubusercontent.com/muzny/csci3010-cuboulder/master/examples/WSL/Windows_features.PNG
-[2]: https://raw.githubusercontent.com/muzny/csci3010-cuboulder/master/examples/WSL/Windows_features_2.PNG
+### If you have questions just come to office hours or send an email or piazza post to me.  
